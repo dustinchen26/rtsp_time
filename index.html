@@ -1,0 +1,177 @@
+<!-- 
+  Copyright © [2023] [Dustin_Chen]. All rights reserved.
+  Author: Dustin Chen
+  Email:  Dustin_Chen@compal.com
+-->
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rtsp白屏時間計算</title>
+    <style>
+        .author-info {
+            display: inline;
+            margin-right: 10px;
+        }
+		
+        body {
+            font-family: Roboto, sans-serif;
+            font-size: 14px;
+        }
+		
+        table {
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+            white-space: nowrap;
+        }
+        /* 应用淡绿色底纹到表格的第一个非表头的行 */
+        table tr:not(:first-child) {
+            background-color: white;
+        }
+        /* 针对表头行的样式 */
+        table th {
+            background-color: #f2f2f2;
+        }
+        #chartContainer {
+            margin-top: 20px;
+            width: 500px;
+            height: 300px;
+        }
+        .container {
+            display: flex;
+            align-items: flex-start;
+            margin-top: 20px;
+        }
+        .table-container {
+            margin-right: 20px;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h2>rtsp白屏時間計算</h2>
+	
+    <p class="author-info">Author: Dustin_Chen</p>
+    <p class="author-info">Email: <a href="mailto:Dustin_Chen@compal.com">Dustin_Chen@compal.com</a></p>
+    <p class="author-info">or <a href="mailto:chuhpsdustin@gmail.com">chuhpsdustin@gmail.com</a></p>
+	<br><br>
+	
+    <form id="logForm">
+        <label for="logInput"><strong>● 輸入WpfRTSPPlayer_XXX.log:</strong></label><br>
+        <textarea id="logInput" rows="10" cols="100"></textarea><br><br>
+        <button type="button" onclick="calculateTimeDifference()">計算</button>
+    </form>
+
+    <div class="container">
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>次數</th>
+                        <th>Time_1:rtsp斷線時間  </th>
+                        <th>Time_2:連線到rtsp  </th>
+                        <th>白屏時間(秒)  </th>
+                    </tr>
+                </thead>
+                <tbody id="resultsTable">
+                </tbody>
+            </table>
+        </div>
+        <div id="chartContainer">
+            <canvas id="timeChart"></canvas>
+        </div>
+    </div>
+
+    <script>
+        let chartInstance = null;
+
+        function parseTime(log) {
+            const regex = /\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d{4}/;
+            const match = log.match(regex);
+            return match ? match[0] : null;
+        }
+
+        function calculateTimeDifference() {
+            const logInput = document.getElementById('logInput').value;
+            const logs = logInput.split('\n');
+            const resultsTable = document.getElementById('resultsTable');
+            resultsTable.innerHTML = '';
+
+            const timeDifferences = [];
+
+            for (let i = 0; i < logs.length - 1; i += 2) {
+                const time1 = parseTime(logs[i]);
+                const time2 = parseTime(logs[i + 1]);
+
+                if (time1 && time2) {
+                    const date1 = new Date(time1);
+                    const date2 = new Date(time2);
+
+                    const timeDifference = date2 - date1;
+                    const differenceInSeconds = timeDifference / 1000;
+                    timeDifferences.push(differenceInSeconds);
+
+                    const row = resultsTable.insertRow();
+                    const cell0 = row.insertCell(0);
+                    const cell1 = row.insertCell(1);
+                    const cell2 = row.insertCell(2);
+                    const cell3 = row.insertCell(3);
+
+                    cell0.textContent = (i / 2) + 1; // 计算第几次
+                    cell1.textContent = time1;
+                    cell2.textContent = time2;
+                    cell3.textContent = differenceInSeconds.toFixed(3);
+                }
+            }
+
+            renderChart(timeDifferences);
+        }
+
+        function renderChart(data) {
+            const ctx = document.getElementById('timeChart').getContext('2d');
+            if (chartInstance) {
+                chartInstance.destroy();
+            }
+            chartInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: data.map((_, index) => `第${index + 1}次`),
+                    datasets: [{
+                        label: '白屏時間（秒）',
+                        data: data,
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1,
+                        fill: false
+                    }]
+                },
+                options: {
+                    scales: {
+                        x: {
+                            title:
+{
+                                display: true,
+                                text: '次數'
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: '白屏時間（秒）'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>
