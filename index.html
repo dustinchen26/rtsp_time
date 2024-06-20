@@ -102,7 +102,7 @@
 
         function calculateTimeDifference() {
             const logInput = document.getElementById('logInput').value;
-            const logs = logInput.split('\n');
+            const logs = logInput.split('\n').filter(line => line.trim() !== '');
             const resultsTable = document.getElementById('resultsTable');
             resultsTable.innerHTML = '';
 
@@ -156,8 +156,7 @@
                 options: {
                     scales: {
                         x: {
-                            title:
-{
+                            title: {
                                 display: true,
                                 text: '次數'
                             }
