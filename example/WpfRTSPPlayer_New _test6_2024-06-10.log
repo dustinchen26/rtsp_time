@@ -1,0 +1,787 @@
+2024-06-10 00:24:08.2758:[tcp @ 000001b2aca79600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:24:10.2794:[tcp @ 000001b2aca790c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:24:12.2734:[tcp @ 000001b2aca79980] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:24:14.2902:[tcp @ 000001b2aca79700] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:24:16.2957:[tcp @ 000001b2aca79000] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:24:18.3105:[tcp @ 000001b2aca79380] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:24:20.1970:[hevc @ 000001b2acc41400] VPS 0 does not exist
+2024-06-10 00:24:20.2281:[hevc @ 000001b2acc41400] VPS 0 does not exist
+2024-06-10 00:24:21.0038:[hevc @ 000001b2acc41c00] VPS 0 does not exist
+2024-06-10 00:24:21.0038:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 00:52:43.9361:[tcp @ 000001b2aca79280] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:52:45.9380:[tcp @ 000001b2aca797c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:52:47.9420:[tcp @ 000001b2aca79e00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:52:49.9451:[tcp @ 000001b2aca798c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:52:51.9584:[tcp @ 000001b2aca79600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:52:53.9738:[tcp @ 000001b2aca790c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 00:52:55.8270:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 00:52:55.8569:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 00:52:56.6256:[hevc @ 000001b2acc3fc00] VPS 0 does not exist
+2024-06-10 00:52:56.6256:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 01:19:21.0112:[tcp @ 000001b2ac9ffe00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:19:23.0272:[tcp @ 000001b2ac9ffa80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:19:25.0294:[tcp @ 000001b2ac9ffe00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:19:27.0339:[tcp @ 000001b2ac9ff9c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:19:29.0409:[tcp @ 000001b2ac9ff700] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:19:31.0424:[tcp @ 000001b2ac9ff480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:19:32.8958:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 01:19:32.9050:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 01:19:33.6658:[hevc @ 000001b2acc40000] VPS 0 does not exist
+2024-06-10 01:19:33.6658:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 01:46:09.9383:[tcp @ 000001b2ad510340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:46:11.9516:[tcp @ 000001b2ad5105c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:46:13.9589:[tcp @ 000001b2ad510cc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:46:15.9580:[tcp @ 000001b2ad510780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:46:17.9611:[tcp @ 000001b2ad5105c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:46:19.9604:[tcp @ 000001b2ad510cc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 01:46:21.8183:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 01:46:21.8448:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 01:46:22.6280:[hevc @ 000001b2acc40800] VPS 0 does not exist
+2024-06-10 01:46:22.6280:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 02:11:54.6720:[tcp @ 000001b2ac4ad040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:11:56.6745:[tcp @ 000001b2ac4ad640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:11:58.6837:[tcp @ 000001b2ac4ad2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:12:00.6979:[tcp @ 000001b2ac4ad100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:12:02.7135:[tcp @ 000001b2ac4adc80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:12:04.7210:[tcp @ 000001b2ac4ad640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:12:06.7240:[tcp @ 000001b2ac4ad640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:12:08.6369:[hevc @ 000001b2acc3e800] VPS 0 does not exist
+2024-06-10 02:12:08.6736:[hevc @ 000001b2acc3e800] VPS 0 does not exist
+2024-06-10 02:12:09.4475:[hevc @ 000001b2acc40c00] VPS 0 does not exist
+2024-06-10 02:12:09.4475:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 02:38:39.6857:[tcp @ 000001b2ac306cc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:38:41.6872:[tcp @ 000001b2ac306500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:38:43.7056:[tcp @ 000001b2ac306dc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:38:45.7093:[tcp @ 000001b2ac306f80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:38:47.7226:[tcp @ 000001b2ac306500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:38:49.7267:[tcp @ 000001b2ac306940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:38:51.7381:[tcp @ 000001b2ac306340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:38:53.7401:[tcp @ 000001b2ac306340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:38:55.7413:[tcp @ 000001b2ac306940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:38:57.7543:[tcp @ 000001b2ac306780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 02:38:59.6212:[hevc @ 000001b2acc41000] VPS 0 does not exist
+2024-06-10 02:38:59.6559:[hevc @ 000001b2acc41000] VPS 0 does not exist
+2024-06-10 02:39:00.4253:[hevc @ 000001b2acc41400] VPS 0 does not exist
+2024-06-10 02:39:00.4253:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 03:04:50.5894:[tcp @ 000001b2ac491ec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:04:52.5924:[tcp @ 000001b2ac491700] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:04:54.5994:[tcp @ 000001b2ac491fc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:04:56.6032:[tcp @ 000001b2ac491fc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:04:58.6052:[tcp @ 000001b2ac492240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:05:00.4888:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 03:05:00.5178:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 03:05:01.2812:[hevc @ 000001b2acc42800] VPS 0 does not exist
+2024-06-10 03:05:01.2812:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 03:29:08.9563:[tcp @ 000001b2ac40efc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:29:10.9632:[tcp @ 000001b2ac40eec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:29:12.9632:[tcp @ 000001b2ac40eec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:29:14.9659:[tcp @ 000001b2ac40f240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:29:16.9688:[tcp @ 000001b2ac40f500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:29:18.9791:[tcp @ 000001b2ac40f240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:29:20.8556:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 03:29:20.8701:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 03:29:20.8827:[hevc @ 000001b2acc3d800] PPS id out of range: 0
+2024-06-10 03:29:20.8827:[hevc @ 000001b2acc3d800] PPS id out of range: 0
+2024-06-10 03:29:20.8827:[hevc @ 000001b2acc3d800] Error parsing NAL unit #0.
+2024-06-10 03:29:21.6282:[hevc @ 000001b2acc3e800] VPS 0 does not exist
+2024-06-10 03:29:21.6282:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 03:29:21.6282:[hevc @ 000001b2acc3e800] PPS id out of range: 0
+2024-06-10 03:29:21.6282:[hevc @ 000001b2acc3e800] Error parsing NAL unit #0.
+2024-06-10 03:53:27.5927:[tcp @ 000001b2ad90ff80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:53:29.5958:[tcp @ 000001b2ad910d80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:53:31.5982:[tcp @ 000001b2ad910780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:53:33.5967:[tcp @ 000001b2ad910080] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:53:35.6174:[tcp @ 000001b2ad910240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 03:53:37.5404:[hevc @ 000001b2ad5597c0] VPS 0 does not exist
+2024-06-10 03:53:37.5681:[hevc @ 000001b2ad5597c0] VPS 0 does not exist
+2024-06-10 03:53:38.3327:[hevc @ 000001b2acc3d800] VPS 0 does not exist
+2024-06-10 03:53:38.3327:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 04:17:14.1137:[tcp @ 000001b2ad79b440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:17:16.1248:[tcp @ 000001b2ad79bb40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:17:18.1389:[tcp @ 000001b2ad79b7c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:17:20.1529:[tcp @ 000001b2ad79b600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:17:22.1559:[tcp @ 000001b2ad79b600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:17:24.1679:[tcp @ 000001b2ad79b0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:17:26.0866:[hevc @ 000001b2acc46100] VPS 0 does not exist
+2024-06-10 04:17:26.1013:[hevc @ 000001b2acc46100] VPS 0 does not exist
+2024-06-10 04:17:26.1428:[hevc @ 000001b2acc46100] PPS id out of range: 0
+2024-06-10 04:17:26.1428:[hevc @ 000001b2acc46100] PPS id out of range: 0
+2024-06-10 04:17:26.1428:[hevc @ 000001b2acc46100] Error parsing NAL unit #0.
+2024-06-10 04:17:26.8593:[hevc @ 000001b2acc41000] VPS 0 does not exist
+2024-06-10 04:17:26.8593:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 04:17:26.8593:[hevc @ 000001b2acc41000] PPS id out of range: 0
+2024-06-10 04:17:26.8593:[hevc @ 000001b2acc41000] Error parsing NAL unit #0.
+2024-06-10 04:42:08.7720:[tcp @ 000001b2acab36c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:10.7736:[tcp @ 000001b2acab3880] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:12.7763:[tcp @ 000001b2acab2fc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:14.7785:[tcp @ 000001b2acab3400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:16.7850:[tcp @ 000001b2acab2fc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:18.7922:[tcp @ 000001b2acab3940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:20.7940:[tcp @ 000001b2acab35c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:22.7968:[tcp @ 000001b2acab3180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:24.8131:[tcp @ 000001b2acab3180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:26.8150:[tcp @ 000001b2acab3400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:28.8250:[tcp @ 000001b2acab3500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 04:42:30.6888:[hevc @ 000001b2ad5597c0] VPS 0 does not exist
+2024-06-10 04:42:30.7158:[hevc @ 000001b2ad5597c0] VPS 0 does not exist
+2024-06-10 04:42:31.4802:[hevc @ 000001b2aca9fdc0] VPS 0 does not exist
+2024-06-10 04:42:31.4822:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 05:07:57.5664:[tcp @ 000001b2ad5b3100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:07:59.5800:[tcp @ 000001b2ad5b2300] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:08:01.5954:[tcp @ 000001b2ad5b2680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:08:03.5982:[tcp @ 000001b2ad5b2840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:08:05.5973:[tcp @ 000001b2ad5b2840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:08:07.6128:[tcp @ 000001b2ad5b2680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:08:09.4798:[hevc @ 000001b2acaa01c0] VPS 0 does not exist
+2024-06-10 05:08:09.5078:[hevc @ 000001b2acaa01c0] VPS 0 does not exist
+2024-06-10 05:08:10.2655:[hevc @ 000001b2aca9edc0] VPS 0 does not exist
+2024-06-10 05:08:10.2655:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 05:30:57.9981:[tcp @ 000001b2ad860380] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:30:59.9986:[tcp @ 000001b2ad860600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:31:02.0022:[tcp @ 000001b2ad860c40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:31:04.0050:[tcp @ 000001b2ad860ec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:31:06.0078:[tcp @ 000001b2ad860700] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:31:08.0137:[tcp @ 000001b2ad8608c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:31:09.9004:[hevc @ 000001b2acaa51c0] VPS 0 does not exist
+2024-06-10 05:31:09.9295:[hevc @ 000001b2acaa51c0] VPS 0 does not exist
+2024-06-10 05:31:10.7044:[hevc @ 000001b2acaa49c0] VPS 0 does not exist
+2024-06-10 05:31:10.7044:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 05:32:46.3676:[tcp @ 000001b2a2f90bc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:32:48.3649:[tcp @ 000001b2a2f90bc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:32:50.3738:[tcp @ 000001b2a2f90bc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:32:52.3896:[tcp @ 000001b2a2f90f40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:32:54.4036:[tcp @ 000001b2a2f91480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:32:56.4024:[tcp @ 000001b2a2f91100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:32:58.2995:[hevc @ 000001b2acaa4dc0] VPS 0 does not exist
+2024-06-10 05:32:58.3346:[hevc @ 000001b2acaa4dc0] VPS 0 does not exist
+2024-06-10 05:32:59.0852:[hevc @ 000001b2acaa35c0] VPS 0 does not exist
+2024-06-10 05:32:59.0852:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 05:57:06.8780:[tcp @ 000001b2ada94c00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:57:08.8953:[tcp @ 000001b2ada94400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:57:10.8996:[tcp @ 000001b2ada94e80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:57:12.9095:[tcp @ 000001b2ada94400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:57:14.9154:[tcp @ 000001b2ada945c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 05:57:16.8379:[hevc @ 000001b2aca9f1c0] VPS 0 does not exist
+2024-06-10 05:57:16.8429:[hevc @ 000001b2aca9f1c0] VPS 0 does not exist
+2024-06-10 05:57:17.6433:[hevc @ 000001b2aca9f9c0] VPS 0 does not exist
+2024-06-10 05:57:17.6433:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 06:19:23.2742:[tcp @ 000001b2ad6725c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:19:25.2857:[tcp @ 000001b2ad672780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:19:27.3023:[tcp @ 000001b2ad672dc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:19:29.3167:[tcp @ 000001b2ad672400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:19:31.3188:[tcp @ 000001b2ad672080] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:19:33.1877:[hevc @ 000001b2acaa1dc0] VPS 0 does not exist
+2024-06-10 06:19:33.2023:[hevc @ 000001b2acaa1dc0] VPS 0 does not exist
+2024-06-10 06:19:33.2172:[hevc @ 000001b2acaa1dc0] PPS id out of range: 0
+2024-06-10 06:19:33.2172:[hevc @ 000001b2acaa1dc0] PPS id out of range: 0
+2024-06-10 06:19:33.2172:[hevc @ 000001b2acaa1dc0] Error parsing NAL unit #0.
+2024-06-10 06:19:33.9616:[hevc @ 000001b2acaa61c0] VPS 0 does not exist
+2024-06-10 06:19:33.9616:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 06:19:33.9616:[hevc @ 000001b2acaa61c0] PPS id out of range: 0
+2024-06-10 06:19:33.9616:[hevc @ 000001b2acaa61c0] Error parsing NAL unit #0.
+2024-06-10 06:41:13.4135:[tcp @ 000001b2ad7fdb00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:41:15.4147:[tcp @ 000001b2ad7fda40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:41:17.4139:[tcp @ 000001b2ad7fd5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:41:19.4171:[tcp @ 000001b2ad7fd400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:41:21.4296:[tcp @ 000001b2ad7fd500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:41:23.4444:[tcp @ 000001b2ad7fd940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:41:25.4526:[tcp @ 000001b2ad7fdcc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:41:27.4658:[tcp @ 000001b2ad7fd880] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:41:29.4645:[tcp @ 000001b2ad7fde80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:41:31.4641:[tcp @ 000001b2ad7fd5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 06:41:33.3240:[hevc @ 000001b2aca9e9c0] VPS 0 does not exist
+2024-06-10 06:41:33.3529:[hevc @ 000001b2aca9e9c0] VPS 0 does not exist
+2024-06-10 06:41:34.1177:[hevc @ 000001b2acaa29c0] VPS 0 does not exist
+2024-06-10 06:41:34.1177:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 07:07:16.3077:[hevc @ 000001b2acaa55c0] VPS 0 does not exist
+2024-06-10 07:07:16.3367:[hevc @ 000001b2acaa55c0] VPS 0 does not exist
+2024-06-10 07:07:17.1133:[hevc @ 000001b2acaa45c0] VPS 0 does not exist
+2024-06-10 07:07:17.1133:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 07:49:38.4204:[tcp @ 000001b2a2f90bc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 07:49:40.4313:[tcp @ 000001b2a2f91100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 07:49:42.4387:[tcp @ 000001b2a2f90a00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 07:49:44.4422:[tcp @ 000001b2a2f90a00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 07:49:46.4457:[tcp @ 000001b2a2f91580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 07:49:48.4398:[tcp @ 000001b2a2f90940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 07:49:50.3284:[hevc @ 000001b2acaa01c0] VPS 0 does not exist
+2024-06-10 07:49:50.3635:[hevc @ 000001b2acaa01c0] VPS 0 does not exist
+2024-06-10 07:49:51.1416:[hevc @ 000001b2aca9f1c0] VPS 0 does not exist
+2024-06-10 07:49:51.1416:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 08:15:23.4267:[tcp @ 000001b2ad510340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:15:25.4303:[tcp @ 000001b2ad510940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:15:27.4476:[tcp @ 000001b2ad510940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:15:29.4505:[tcp @ 000001b2ad510b00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:15:31.4494:[tcp @ 000001b2ad510180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:15:33.3214:[hevc @ 000001b2acaa11c0] VPS 0 does not exist
+2024-06-10 08:15:33.3495:[hevc @ 000001b2acaa11c0] VPS 0 does not exist
+2024-06-10 08:15:34.1221:[hevc @ 000001b2aca9f5c0] VPS 0 does not exist
+2024-06-10 08:15:34.1241:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 08:38:37.7360:[tcp @ 000001b2ad510f80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:38:39.7367:[tcp @ 000001b2ad510b00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:38:41.7513:[tcp @ 000001b2ad510880] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:38:43.7531:[tcp @ 000001b2ad510340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:38:45.7544:[tcp @ 000001b2ad510240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:38:47.7621:[tcp @ 000001b2ad510500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 08:38:49.6511:[hevc @ 000001b2acaa19c0] VPS 0 does not exist
+2024-06-10 08:38:49.6807:[hevc @ 000001b2acaa19c0] VPS 0 does not exist
+2024-06-10 08:38:50.4348:[hevc @ 000001b2acaa01c0] VPS 0 does not exist
+2024-06-10 08:38:50.4368:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 09:03:02.2297:[tcp @ 000001b2ac986ac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:03:04.2289:[tcp @ 000001b2ac9863c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:03:06.2435:[tcp @ 000001b2ac986f00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:03:08.2581:[tcp @ 000001b2ac986580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:03:10.2626:[tcp @ 000001b2ac986ac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:03:12.0969:[hevc @ 000001b2acaa25c0] VPS 0 does not exist
+2024-06-10 09:03:12.1336:[hevc @ 000001b2acaa25c0] VPS 0 does not exist
+2024-06-10 09:03:12.9241:[hevc @ 000001b2acaa59c0] VPS 0 does not exist
+2024-06-10 09:03:12.9241:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 09:27:58.9448:[tcp @ 000001b2ada14280] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:28:00.9432:[tcp @ 000001b2ada14500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:28:02.9563:[tcp @ 000001b2ada14ec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:28:04.9596:[tcp @ 000001b2ada14b40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:28:06.9624:[tcp @ 000001b2ada14ec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:28:08.8142:[hevc @ 000001b2acaa4dc0] VPS 0 does not exist
+2024-06-10 09:28:08.8456:[hevc @ 000001b2acaa4dc0] VPS 0 does not exist
+2024-06-10 09:28:09.6408:[hevc @ 000001b2acaa2dc0] VPS 0 does not exist
+2024-06-10 09:28:09.6408:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 09:51:45.2803:[tcp @ 000001b2ad644e40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:51:47.2920:[tcp @ 000001b2ad644b80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:51:49.3052:[tcp @ 000001b2ad6449c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:51:51.3122:[tcp @ 000001b2ad644100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:51:53.3183:[tcp @ 000001b2ad644640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:51:55.3181:[tcp @ 000001b2ad6442c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 09:51:57.1469:[hevc @ 000001b2acaa21c0] VPS 0 does not exist
+2024-06-10 09:51:57.1764:[hevc @ 000001b2acaa21c0] VPS 0 does not exist
+2024-06-10 09:51:57.9611:[hevc @ 000001b2aca9e9c0] VPS 0 does not exist
+2024-06-10 09:51:57.9611:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 10:18:10.1018:[tcp @ 000001b2ac4adc80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:18:12.1038:[tcp @ 000001b2ac4ad580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:18:14.1067:[tcp @ 000001b2ac4add40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:18:16.1270:[tcp @ 000001b2ac4ade40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:18:18.1286:[tcp @ 000001b2ac4add40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:18:20.1409:[tcp @ 000001b2ac4adc80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:18:22.1461:[tcp @ 000001b2ac4add40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:18:24.1461:[tcp @ 000001b2ac4adb80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:18:26.0474:[hevc @ 000001b2acaa25c0] VPS 0 does not exist
+2024-06-10 10:18:26.0746:[hevc @ 000001b2acaa25c0] VPS 0 does not exist
+2024-06-10 10:18:26.9004:[hevc @ 000001b2acaa05c0] VPS 0 does not exist
+2024-06-10 10:18:26.9004:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 10:41:48.4877:[tcp @ 000001b2ac9ff2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:41:50.4927:[tcp @ 000001b2ac9ffb80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:41:52.4941:[tcp @ 000001b2ac9ffd40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:41:54.5007:[tcp @ 000001b2ac9ff640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:41:56.5067:[tcp @ 000001b2ac9ff9c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:41:58.5136:[tcp @ 000001b2ac9ff540] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:42:00.5207:[tcp @ 000001b2ac9ffb80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:42:02.5224:[tcp @ 000001b2ac9ff9c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:42:04.5266:[tcp @ 000001b2ac9ff640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:42:06.5319:[tcp @ 000001b2ac9ff9c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 10:42:08.3903:[hevc @ 000001b2acaa09c0] VPS 0 does not exist
+2024-06-10 10:42:08.4204:[hevc @ 000001b2acaa09c0] VPS 0 does not exist
+2024-06-10 10:42:08.4204:[hevc @ 000001b2acaa09c0] PPS id out of range: 0
+2024-06-10 10:42:08.4204:[hevc @ 000001b2acaa09c0] PPS id out of range: 0
+2024-06-10 10:42:08.4204:[hevc @ 000001b2acaa09c0] Error parsing NAL unit #0.
+2024-06-10 10:42:09.1690:[hevc @ 000001b2acaa3dc0] VPS 0 does not exist
+2024-06-10 10:42:09.1710:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 10:42:09.1710:[hevc @ 000001b2acaa3dc0] PPS id out of range: 0
+2024-06-10 10:42:09.1710:[hevc @ 000001b2acaa3dc0] Error parsing NAL unit #0.
+2024-06-10 11:00:01.7710:[tcp @ 000001b2ad6449c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:00:03.7776:[tcp @ 000001b2ad6443c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:00:05.7793:[tcp @ 000001b2ad644ac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:00:07.7817:[tcp @ 000001b2ad6443c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:00:09.7948:[tcp @ 000001b2ad644200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:00:11.7978:[tcp @ 000001b2ad644100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:00:13.8120:[tcp @ 000001b2ad644ac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:00:15.8265:[tcp @ 000001b2ad644b80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:00:17.8270:[tcp @ 000001b2ad6449c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:00:19.7403:[hevc @ 000001b2acaa41c0] VPS 0 does not exist
+2024-06-10 11:00:19.7813:[hevc @ 000001b2acaa41c0] VPS 0 does not exist
+2024-06-10 11:00:20.5477:[hevc @ 000001b2acaa1dc0] VPS 0 does not exist
+2024-06-10 11:00:20.5477:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 11:21:11.7713:[tcp @ 000001b2ac32dc00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:21:13.7755:[tcp @ 000001b2ac32cec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:21:15.7912:[tcp @ 000001b2ac32db00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:21:17.7929:[tcp @ 000001b2ac32db00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:21:19.7998:[tcp @ 000001b2ac32d5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:21:21.8028:[tcp @ 000001b2ac32cfc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:21:23.6710:[hevc @ 000001b2aca9e5c0] VPS 0 does not exist
+2024-06-10 11:21:23.6885:[hevc @ 000001b2aca9e5c0] VPS 0 does not exist
+2024-06-10 11:21:23.7032:[hevc @ 000001b2aca9e5c0] PPS id out of range: 0
+2024-06-10 11:21:23.7032:[hevc @ 000001b2aca9e5c0] PPS id out of range: 0
+2024-06-10 11:21:23.7032:[hevc @ 000001b2aca9e5c0] Error parsing NAL unit #0.
+2024-06-10 11:21:24.4394:[hevc @ 000001b2acaa21c0] VPS 0 does not exist
+2024-06-10 11:21:24.4394:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 11:21:24.4394:[hevc @ 000001b2acaa21c0] PPS id out of range: 0
+2024-06-10 11:21:24.4394:[hevc @ 000001b2acaa21c0] Error parsing NAL unit #0.
+2024-06-10 11:41:47.6166:[tcp @ 000001b2ac9864c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:41:49.6278:[tcp @ 000001b2ac986a00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:41:51.6292:[tcp @ 000001b2ac986840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:41:53.6366:[tcp @ 000001b2ac986680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:41:55.6486:[tcp @ 000001b2ac986680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 11:41:57.6100:[hevc @ 000001b2acaa09c0] VPS 0 does not exist
+2024-06-10 11:41:57.6294:[hevc @ 000001b2acaa09c0] VPS 0 does not exist
+2024-06-10 11:41:58.3950:[hevc @ 000001b2acaa0dc0] VPS 0 does not exist
+2024-06-10 11:41:58.3950:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 12:02:01.5416:[tcp @ 000001b2ac32ff00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:02:03.5441:[tcp @ 000001b2ac330380] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:02:05.5599:[tcp @ 000001b2ac330380] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:02:07.5595:[tcp @ 000001b2ac32ff00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:02:09.5725:[tcp @ 000001b2ac3300c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:02:11.5754:[tcp @ 000001b2ac32f9c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:02:13.4243:[hevc @ 000001b2aca9e5c0] VPS 0 does not exist
+2024-06-10 12:02:13.4494:[hevc @ 000001b2aca9e5c0] VPS 0 does not exist
+2024-06-10 12:02:14.2273:[hevc @ 000001b2acaa65c0] VPS 0 does not exist
+2024-06-10 12:02:14.2273:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 12:17:38.5220:[tcp @ 000001b2ad78c9c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:17:40.5257:[tcp @ 000001b2ad78cc40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:17:42.5326:[tcp @ 000001b2ad78c2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:17:44.5470:[tcp @ 000001b2ad78c100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:17:46.5613:[tcp @ 000001b2ad78c380] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:17:48.4230:[hevc @ 000001b2acaa09c0] VPS 0 does not exist
+2024-06-10 12:17:48.4384:[hevc @ 000001b2acaa09c0] VPS 0 does not exist
+2024-06-10 12:17:49.2118:[hevc @ 000001b2acaa31c0] VPS 0 does not exist
+2024-06-10 12:17:49.2118:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 12:37:44.2138:[tcp @ 000001b2ac40f600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:37:46.2115:[tcp @ 000001b2ac40f0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:37:48.2179:[tcp @ 000001b2ac40fdc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:37:50.2207:[tcp @ 000001b2ac40f7c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:37:52.2314:[tcp @ 000001b2ac40fa40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:37:54.2465:[tcp @ 000001b2ac40f600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:37:56.2599:[tcp @ 000001b2ac40f440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:37:58.1383:[hevc @ 000001b2acaa41c0] VPS 0 does not exist
+2024-06-10 12:37:58.1755:[hevc @ 000001b2acaa41c0] VPS 0 does not exist
+2024-06-10 12:37:58.9268:[hevc @ 000001b2acaa4dc0] VPS 0 does not exist
+2024-06-10 12:37:58.9268:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 12:56:43.6608:[tcp @ 000001b2ac40fc00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:56:45.6736:[tcp @ 000001b2ac40f0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:56:47.6799:[tcp @ 000001b2ac40f340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:56:49.6911:[tcp @ 000001b2ac40fdc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:56:51.6990:[tcp @ 000001b2ac40fb40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:56:53.7112:[tcp @ 000001b2ac40f340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 12:56:55.5911:[hevc @ 000001b2acaa41c0] VPS 0 does not exist
+2024-06-10 12:56:55.6312:[hevc @ 000001b2acaa41c0] VPS 0 does not exist
+2024-06-10 12:56:56.3917:[hevc @ 000001b2acaa81c0] VPS 0 does not exist
+2024-06-10 12:56:56.3917:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 13:16:11.2961:[tcp @ 000001b2a2ffdfc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:16:13.2996:[tcp @ 000001b2a2ffe980] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:16:15.3153:[tcp @ 000001b2a2ffeb40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:16:17.3307:[tcp @ 000001b2a2ffdfc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:16:19.3295:[tcp @ 000001b2a2ffe600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:16:21.3355:[tcp @ 000001b2a2ffe280] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:16:23.3511:[tcp @ 000001b2a2ffec00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:16:25.3567:[tcp @ 000001b2a2ffe7c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:16:27.2324:[hevc @ 000001b2aca9e5c0] VPS 0 does not exist
+2024-06-10 13:16:27.2677:[hevc @ 000001b2aca9e5c0] VPS 0 does not exist
+2024-06-10 13:16:28.0600:[hevc @ 000001b2acaa25c0] VPS 0 does not exist
+2024-06-10 13:16:28.0600:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 13:34:58.7656:[tcp @ 000001b2acb98e80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:00.7813:[tcp @ 000001b2acb98780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:02.7875:[tcp @ 000001b2acb98780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:04.7973:[tcp @ 000001b2acb99200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:06.7999:[tcp @ 000001b2acb98680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:08.7996:[tcp @ 000001b2acb985c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:10.8066:[tcp @ 000001b2acb98cc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:12.8237:[tcp @ 000001b2acb98680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:14.8229:[tcp @ 000001b2acb99040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:16.8246:[tcp @ 000001b2acb98680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:18.8300:[tcp @ 000001b2acb98d80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:35:20.6970:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 13:35:20.7291:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 13:35:21.5054:[hevc @ 000001b2acaa51c0] VPS 0 does not exist
+2024-06-10 13:35:21.5054:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 13:54:20.2935:[tcp @ 000001b2ac9fd640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:54:22.3071:[tcp @ 000001b2ac9fdf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:54:24.3198:[tcp @ 000001b2ac9fdd40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:54:26.3346:[tcp @ 000001b2ac9fd100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:54:28.3510:[tcp @ 000001b2ac9fdd40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:54:30.3509:[tcp @ 000001b2ac9fd480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 13:54:32.1975:[hevc @ 000001b2acaa09c0] VPS 0 does not exist
+2024-06-10 13:54:32.2275:[hevc @ 000001b2acaa09c0] VPS 0 does not exist
+2024-06-10 13:54:33.0223:[hevc @ 000001b2acaa11c0] VPS 0 does not exist
+2024-06-10 13:54:33.0223:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 14:12:55.8024:[tcp @ 000001b2ac9fd8c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 14:12:57.8029:[tcp @ 000001b2ac9fd700] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 14:12:59.8063:[tcp @ 000001b2ac9fda80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 14:13:01.8217:[tcp @ 000001b2ac9fd2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 14:13:03.8230:[tcp @ 000001b2ac9fd1c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 14:13:05.8339:[tcp @ 000001b2ac9fd2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 14:13:07.6988:[hevc @ 000001b2acaa55c0] VPS 0 does not exist
+2024-06-10 14:13:07.7505:[hevc @ 000001b2acaa55c0] VPS 0 does not exist
+2024-06-10 14:13:08.5558:[hevc @ 000001b2acaa15c0] VPS 0 does not exist
+2024-06-10 14:13:08.5558:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 15:07:35.6995:[tcp @ 000001b2acab6880] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:37.7107:[tcp @ 000001b2acab6600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:39.7228:[tcp @ 000001b2acab6b40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:41.7270:[tcp @ 000001b2acab6ec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:43.7284:[tcp @ 000001b2acab6b40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:45.7332:[tcp @ 000001b2acab6a40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:47.7341:[tcp @ 000001b2acab6600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:49.7375:[tcp @ 000001b2acab6a40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:51.7389:[tcp @ 000001b2acab66c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:53.7362:[tcp @ 000001b2acab7140] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:55.7524:[tcp @ 000001b2acab7240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:07:57.6445:[hevc @ 000001b2acaa19c0] VPS 0 does not exist
+2024-06-10 15:07:57.6697:[hevc @ 000001b2acaa19c0] VPS 0 does not exist
+2024-06-10 15:07:58.7205:[hevc @ 000001b2acaa09c0] VPS 0 does not exist
+2024-06-10 15:07:58.7205:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 15:26:04.9957:[tcp @ 000001b2ad6d16c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:26:06.9946:[tcp @ 000001b2ad6d1ec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:26:09.0086:[tcp @ 000001b2ad6d1c00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:26:11.0198:[tcp @ 000001b2ad6d2300] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:26:13.0208:[tcp @ 000001b2ad6d1500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:26:15.0227:[tcp @ 000001b2ad6d2140] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:26:16.8789:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 15:26:16.8959:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 15:26:17.6824:[hevc @ 000001b2acaa19c0] VPS 0 does not exist
+2024-06-10 15:26:17.6824:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 15:44:58.6461:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:45:00.6439:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:45:02.6609:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:45:04.6693:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:45:06.6705:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:45:08.6879:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 15:45:10.5716:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 15:45:10.5846:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 15:45:11.3518:[hevc @ 000001b2acaa55c0] VPS 0 does not exist
+2024-06-10 15:45:11.3518:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 16:03:20.0280:[tcp @ 000001b2ad643e80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:03:22.0453:[tcp @ 000001b2ad644580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:03:24.0451:[tcp @ 000001b2ad643b00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:03:26.0453:[tcp @ 000001b2ad643bc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:03:28.0633:[tcp @ 000001b2ad643b00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:03:29.9569:[hevc @ 000001b2aca9e5c0] VPS 0 does not exist
+2024-06-10 16:03:29.9785:[hevc @ 000001b2aca9e5c0] VPS 0 does not exist
+2024-06-10 16:03:30.7480:[hevc @ 000001b2acaa69c0] VPS 0 does not exist
+2024-06-10 16:03:30.7480:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 16:21:55.4142:[tcp @ 000001b2ad550740] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:21:57.4279:[tcp @ 000001b2ad550580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:21:59.4263:[tcp @ 000001b2ad54ff80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:22:01.4470:[tcp @ 000001b2ad54fe80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:22:03.4504:[tcp @ 000001b2ad550900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:22:05.4562:[tcp @ 000001b2ad550680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:22:07.3291:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 16:22:07.3589:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 16:22:08.1666:[hevc @ 000001b2acaa41c0] VPS 0 does not exist
+2024-06-10 16:22:08.1666:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 16:40:27.0685:[tcp @ 000001b2ad93ff80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:40:29.0763:[tcp @ 000001b2ad93fcc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:40:31.0765:[tcp @ 000001b2ad93ff80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:40:33.0781:[tcp @ 000001b2ad93fe80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:40:35.0829:[tcp @ 000001b2ad93f6c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:40:37.0980:[tcp @ 000001b2ad93fcc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:40:38.9688:[hevc @ 000001b2acaa5dc0] VPS 0 does not exist
+2024-06-10 16:40:39.0029:[hevc @ 000001b2acaa5dc0] VPS 0 does not exist
+2024-06-10 16:40:39.7681:[hevc @ 000001b2aca9e5c0] VPS 0 does not exist
+2024-06-10 16:40:39.7681:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 16:59:26.6378:[tcp @ 000001b2ac4ad3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:59:28.6428:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:59:30.6456:[tcp @ 000001b2ac4ad2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:59:32.6597:[tcp @ 000001b2ac4ad580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:59:34.6660:[tcp @ 000001b2ac4ad480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:59:36.6788:[tcp @ 000001b2ac4ad740] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 16:59:38.6634:[hevc @ 000001b2acaa5dc0] VPS 0 does not exist
+2024-06-10 16:59:38.6761:[hevc @ 000001b2acaa5dc0] VPS 0 does not exist
+2024-06-10 16:59:39.4787:[hevc @ 000001b2acaa71c0] VPS 0 does not exist
+2024-06-10 16:59:39.4787:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 17:18:48.2790:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:18:50.2850:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:18:52.2850:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:18:54.3000:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:18:56.3133:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:18:58.3149:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:19:00.3216:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:19:02.3268:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:19:04.3261:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:19:06.3303:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:19:08.1885:[hevc @ 000001b2acaa5dc0] VPS 0 does not exist
+2024-06-10 17:19:08.2036:[hevc @ 000001b2acaa5dc0] VPS 0 does not exist
+2024-06-10 17:19:08.9629:[hevc @ 000001b2acaa99c0] VPS 0 does not exist
+2024-06-10 17:19:08.9629:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 17:38:47.7964:[tcp @ 000001b2ac4ae000] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:38:49.8040:[tcp @ 000001b2ac4ad640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:38:51.8183:[tcp @ 000001b2ac4adb80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:38:53.8235:[tcp @ 000001b2ac4adc80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:38:55.8226:[tcp @ 000001b2ac4adf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:38:57.8369:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:38:59.8391:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:39:01.7082:[hevc @ 000001b2acaaa1c0] VPS 0 does not exist
+2024-06-10 17:39:01.7451:[hevc @ 000001b2acaaa1c0] VPS 0 does not exist
+2024-06-10 17:39:02.5575:[hevc @ 000001b2acaa5dc0] VPS 0 does not exist
+2024-06-10 17:39:02.5575:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 17:58:07.5540:[tcp @ 000001b2a2ffe980] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:58:09.5595:[tcp @ 000001b2a2ffeb40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:58:11.5581:[tcp @ 000001b2a2ffe600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:58:13.5734:[tcp @ 000001b2a2ffed00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:58:15.5791:[tcp @ 000001b2a2ffe6c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:58:17.5795:[tcp @ 000001b2a2ffea40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 17:58:19.4863:[hevc @ 000001b2acaa6dc0] VPS 0 does not exist
+2024-06-10 17:58:19.5231:[hevc @ 000001b2acaa6dc0] VPS 0 does not exist
+2024-06-10 17:58:20.2637:[hevc @ 000001b2acaa75c0] VPS 0 does not exist
+2024-06-10 17:58:20.2637:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 18:17:37.2690:[tcp @ 000001b2a2ffe0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:17:39.2858:[tcp @ 000001b2a2ffeb40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:17:41.2926:[tcp @ 000001b2a2ffdfc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:17:43.2992:[tcp @ 000001b2a2ffe980] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:17:45.3075:[tcp @ 000001b2a2ffec00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:17:47.3139:[tcp @ 000001b2a2ffe500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:17:49.1658:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 18:17:49.1958:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 18:17:49.9529:[hevc @ 000001b2acaa79c0] VPS 0 does not exist
+2024-06-10 18:17:49.9529:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 18:35:34.5974:[tcp @ 000001b2a2ffe600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:35:36.6124:[tcp @ 000001b2a2ffdfc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:35:38.6249:[tcp @ 000001b2a2ffeb40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:35:40.6414:[tcp @ 000001b2a2ffeb40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:35:42.6442:[tcp @ 000001b2a2ffe440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:35:44.6592:[tcp @ 000001b2a2ffe340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:35:46.5323:[hevc @ 000001b2acaa6dc0] VPS 0 does not exist
+2024-06-10 18:35:46.5323:[hevc @ 000001b2acaa6dc0] VPS 0 does not exist
+2024-06-10 18:35:47.3169:[hevc @ 000001b2acaaa5c0] VPS 0 does not exist
+2024-06-10 18:35:47.3169:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 18:53:45.9710:[tcp @ 000001b2ac986140] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:53:47.9872:[tcp @ 000001b2ac986840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:53:49.9890:[tcp @ 000001b2ac986a00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:53:51.9969:[tcp @ 000001b2ac986400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:53:54.0145:[tcp @ 000001b2ac986bc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:53:56.0122:[tcp @ 000001b2ac986a00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:53:57.9060:[hevc @ 000001b2acaa9dc0] VPS 0 does not exist
+2024-06-10 18:53:57.9311:[hevc @ 000001b2acaa9dc0] VPS 0 does not exist
+2024-06-10 18:53:58.7019:[hevc @ 000001b2acaa85c0] VPS 0 does not exist
+2024-06-10 18:53:58.7019:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 18:55:38.3413:[tcp @ 000001b2ad552940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:55:40.3434:[tcp @ 000001b2ad5532c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:55:42.3407:[tcp @ 000001b2ad5525c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:55:44.3531:[tcp @ 000001b2ad553100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:55:46.3533:[tcp @ 000001b2ad552780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:55:48.3646:[tcp @ 000001b2ad552cc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 18:55:50.2527:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 18:55:50.2762:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 18:55:51.0407:[hevc @ 000001b2acaa6dc0] VPS 0 does not exist
+2024-06-10 18:55:51.0457:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 19:12:51.5955:[tcp @ 000001b2ad552bc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:12:53.6115:[tcp @ 000001b2ad552bc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:12:55.6118:[tcp @ 000001b2ad552940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:12:57.6175:[tcp @ 000001b2ad552f40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:12:59.6343:[tcp @ 000001b2ad552680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:13:01.6400:[tcp @ 000001b2ad553200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:13:03.6455:[tcp @ 000001b2ad552a00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:13:05.6456:[tcp @ 000001b2ad553200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:13:07.6464:[tcp @ 000001b2ad552b00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:13:09.5546:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 19:13:09.5934:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 19:13:10.3791:[hevc @ 000001b2acaa8dc0] VPS 0 does not exist
+2024-06-10 19:13:10.3791:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 19:31:19.0792:[tcp @ 000001b2ac9ff9c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:31:21.0902:[tcp @ 000001b2ac9fff00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:31:23.1037:[tcp @ 000001b2ac9ff100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:31:25.1186:[tcp @ 000001b2ac9ff2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:31:27.1330:[tcp @ 000001b2ac9ff8c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:31:29.0196:[hevc @ 000001b2acaab1c0] VPS 0 does not exist
+2024-06-10 19:31:29.0496:[hevc @ 000001b2acaab1c0] VPS 0 does not exist
+2024-06-10 19:31:29.8124:[hevc @ 000001b2acaa89c0] VPS 0 does not exist
+2024-06-10 19:31:29.8124:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 19:48:56.4103:[tcp @ 000001b2ac9864c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:48:58.4116:[tcp @ 000001b2ac986bc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:49:00.4193:[tcp @ 000001b2ac986bc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:49:02.4354:[tcp @ 000001b2ac986e80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:49:04.4386:[tcp @ 000001b2ac986d80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 19:49:06.2964:[hevc @ 000001b2acaa9dc0] VPS 0 does not exist
+2024-06-10 19:49:06.3314:[hevc @ 000001b2acaa9dc0] VPS 0 does not exist
+2024-06-10 19:49:07.0982:[hevc @ 000001b2acaa91c0] VPS 0 does not exist
+2024-06-10 19:49:07.0982:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 20:05:19.3156:[tcp @ 000001b2ac491fc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:05:21.3245:[tcp @ 000001b2ac491700] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:05:23.3250:[tcp @ 000001b2ac491980] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:05:25.3251:[tcp @ 000001b2ac491d00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:05:27.3304:[tcp @ 000001b2ac491fc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:05:29.3318:[tcp @ 000001b2ac491b40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:05:31.3357:[tcp @ 000001b2ac4918c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:05:33.3390:[tcp @ 000001b2ac491ec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:05:35.2295:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 20:05:35.2626:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 20:05:36.0450:[hevc @ 000001b2acaab1c0] VPS 0 does not exist
+2024-06-10 20:05:36.0450:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 20:15:07.0958:[tcp @ 000001b2a2ffe600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:15:09.1114:[tcp @ 000001b2a2ffdf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:15:11.1155:[tcp @ 000001b2a2ffdfc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:15:13.1351:[tcp @ 000001b2a2ffec00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:15:15.1422:[tcp @ 000001b2a2ffdf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:15:17.1450:[tcp @ 000001b2a2ffe980] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:15:19.1579:[tcp @ 000001b2a2ffdf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:15:21.3127:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 20:15:21.3345:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 20:15:21.3495:[hevc @ 000001b2acaa7dc0] PPS id out of range: 0
+2024-06-10 20:15:21.3495:[hevc @ 000001b2acaa7dc0] PPS id out of range: 0
+2024-06-10 20:15:21.3495:[hevc @ 000001b2acaa7dc0] Error parsing NAL unit #0.
+2024-06-10 20:15:22.0878:[hevc @ 000001b2acaa95c0] VPS 0 does not exist
+2024-06-10 20:15:22.0878:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 20:15:22.0878:[hevc @ 000001b2acaa95c0] PPS id out of range: 0
+2024-06-10 20:15:22.0878:[hevc @ 000001b2acaa95c0] Error parsing NAL unit #0.
+2024-06-10 20:33:20.3914:[tcp @ 000001b2ad552840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:33:22.3939:[tcp @ 000001b2ad553100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:33:24.3923:[tcp @ 000001b2ad552940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:33:26.3957:[tcp @ 000001b2ad552d80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:33:28.3986:[tcp @ 000001b2ad5532c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:33:30.3518:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 20:33:30.3609:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 20:33:30.3609:[hevc @ 000001b2acaa7dc0] PPS id out of range: 0
+2024-06-10 20:33:30.3609:[hevc @ 000001b2acaa7dc0] PPS id out of range: 0
+2024-06-10 20:33:30.3609:[hevc @ 000001b2acaa7dc0] Error parsing NAL unit #0.
+2024-06-10 20:33:31.1178:[hevc @ 000001b2acaab5c0] VPS 0 does not exist
+2024-06-10 20:33:31.1178:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 20:33:31.1178:[hevc @ 000001b2acaab5c0] PPS id out of range: 0
+2024-06-10 20:33:31.1178:[hevc @ 000001b2acaab5c0] Error parsing NAL unit #0.
+2024-06-10 20:52:23.6533:[tcp @ 000001b2ac958340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:52:25.6566:[tcp @ 000001b2ac958340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:52:27.6673:[tcp @ 000001b2ac958780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:52:29.6729:[tcp @ 000001b2ac957fc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:52:31.6749:[tcp @ 000001b2ac958500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:52:33.6753:[tcp @ 000001b2ac958500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 20:52:35.5261:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 20:52:35.5592:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 20:52:36.3409:[hevc @ 000001b2acaaa1c0] VPS 0 does not exist
+2024-06-10 20:52:36.3429:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 21:10:57.1466:[tcp @ 000001b2ac9585c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:10:59.1465:[tcp @ 000001b2ac958240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:11:01.1542:[tcp @ 000001b2ac9586c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:11:03.1599:[tcp @ 000001b2ac958880] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:11:05.1642:[tcp @ 000001b2ac958240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:11:07.1743:[tcp @ 000001b2ac958180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:11:09.0375:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 21:11:09.0646:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 21:11:09.8139:[hevc @ 000001b2acaab9c0] VPS 0 does not exist
+2024-06-10 21:11:09.8139:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 21:28:08.2373:[tcp @ 000001b2ac4ad740] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:28:10.2561:[tcp @ 000001b2ac4ae0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:28:12.2611:[tcp @ 000001b2ac4adac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:28:14.2635:[tcp @ 000001b2ac4ad2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:28:16.2821:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:28:18.2841:[tcp @ 000001b2ac4ade40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:28:20.2852:[tcp @ 000001b2ac4adc80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:28:22.2911:[tcp @ 000001b2ac4ad580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:28:24.2911:[tcp @ 000001b2ac4ade40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:28:26.1529:[hevc @ 000001b2acaaa9c0] VPS 0 does not exist
+2024-06-10 21:28:26.1824:[hevc @ 000001b2acaaa9c0] VPS 0 does not exist
+2024-06-10 21:28:26.9479:[hevc @ 000001b2acaa9dc0] VPS 0 does not exist
+2024-06-10 21:28:26.9479:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 21:47:13.8397:[tcp @ 000001b2ac914d80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:15.8406:[tcp @ 000001b2ac914e40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:17.8557:[tcp @ 000001b2ac914140] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:19.8658:[tcp @ 000001b2ac914680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:21.8832:[tcp @ 000001b2ac914a00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:23.8941:[tcp @ 000001b2ac9143c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:25.9049:[tcp @ 000001b2ac914740] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:27.8999:[tcp @ 000001b2ac914200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:29.9131:[tcp @ 000001b2ac914740] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:31.9282:[tcp @ 000001b2ac914900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:33.9257:[tcp @ 000001b2ac914900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 21:47:35.8362:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 21:47:35.8598:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 21:47:36.6339:[hevc @ 000001b2acaaadc0] VPS 0 does not exist
+2024-06-10 21:47:36.6339:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 22:05:15.2931:[tcp @ 000001b2ac914e40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:05:17.3047:[tcp @ 000001b2ac914200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:05:19.3235:[tcp @ 000001b2ac914d80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:05:21.3235:[tcp @ 000001b2ac9143c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:05:23.3392:[tcp @ 000001b2ac914ac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:05:25.2014:[hevc @ 000001b2acaaa9c0] VPS 0 does not exist
+2024-06-10 22:05:25.2345:[hevc @ 000001b2acaaa9c0] VPS 0 does not exist
+2024-06-10 22:05:25.9872:[hevc @ 000001b2acaabdc0] VPS 0 does not exist
+2024-06-10 22:05:25.9872:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 22:16:47.4261:[tcp @ 000001b2a2ffdfc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:16:49.4297:[tcp @ 000001b2a2ffe340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:16:51.4383:[tcp @ 000001b2a2ffe440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:16:53.4494:[tcp @ 000001b2a2ffeb40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:16:55.4525:[tcp @ 000001b2a2ffe500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:16:57.4527:[tcp @ 000001b2a2ffec00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:16:59.4692:[tcp @ 000001b2a2ffe180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:17:01.4735:[tcp @ 000001b2a2ffdf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:17:03.4738:[tcp @ 000001b2a2ffe0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:17:05.3424:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 22:17:05.3424:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 22:17:05.4141:[hevc @ 000001b2acaa7dc0] PPS id out of range: 0
+2024-06-10 22:17:05.4141:[hevc @ 000001b2acaa7dc0] PPS id out of range: 0
+2024-06-10 22:17:05.4141:[hevc @ 000001b2acaa7dc0] Error parsing NAL unit #0.
+2024-06-10 22:17:06.1116:[hevc @ 000001b2acaa39c0] VPS 0 does not exist
+2024-06-10 22:17:06.1116:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 22:17:06.1116:[hevc @ 000001b2acaa39c0] PPS id out of range: 0
+2024-06-10 22:17:06.1116:[hevc @ 000001b2acaa39c0] Error parsing NAL unit #0.
+2024-06-10 22:34:44.6939:[tcp @ 000001b2ad698e00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:34:46.6934:[tcp @ 000001b2ad698a80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:34:48.7133:[tcp @ 000001b2ad698380] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:34:50.7193:[tcp @ 000001b2ad698a80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:34:52.7231:[tcp @ 000001b2ad698e00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:34:54.7295:[tcp @ 000001b2ad698e00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:34:56.6290:[hevc @ 000001b2acaac5c0] VPS 0 does not exist
+2024-06-10 22:34:56.6511:[hevc @ 000001b2acaac5c0] VPS 0 does not exist
+2024-06-10 22:34:56.6641:[hevc @ 000001b2acaac5c0] PPS id out of range: 0
+2024-06-10 22:34:56.6641:[hevc @ 000001b2acaac5c0] PPS id out of range: 0
+2024-06-10 22:34:56.6641:[hevc @ 000001b2acaac5c0] Error parsing NAL unit #0.
+2024-06-10 22:34:57.4092:[hevc @ 000001b2acaacdc0] VPS 0 does not exist
+2024-06-10 22:34:57.4092:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 22:34:57.4092:[hevc @ 000001b2acaacdc0] PPS id out of range: 0
+2024-06-10 22:34:57.4092:[hevc @ 000001b2acaacdc0] Error parsing NAL unit #0.
+2024-06-10 22:53:23.9703:[tcp @ 000001b2acc5d400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:53:25.9817:[tcp @ 000001b2acc5d080] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:53:27.9822:[tcp @ 000001b2acc5dcc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:53:29.9927:[tcp @ 000001b2acc5d080] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:53:31.9959:[tcp @ 000001b2acc5d080] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:53:34.0084:[tcp @ 000001b2acc5d4c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 22:53:35.9281:[hevc @ 000001b2acaac9c0] VPS 0 does not exist
+2024-06-10 22:53:35.9570:[hevc @ 000001b2acaac9c0] VPS 0 does not exist
+2024-06-10 22:53:36.7274:[hevc @ 000001b2acaaa9c0] VPS 0 does not exist
+2024-06-10 22:53:36.7274:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 23:12:49.5321:[tcp @ 000001b2ad6afbc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:12:51.5502:[tcp @ 000001b2ad6b0100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:12:53.5649:[tcp @ 000001b2ad6b0100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:12:55.5643:[tcp @ 000001b2ad6afcc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:12:57.5804:[tcp @ 000001b2ad6b0100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:12:59.5790:[tcp @ 000001b2ad6b0100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:13:01.4700:[hevc @ 000001b2acaaddc0] VPS 0 does not exist
+2024-06-10 23:13:01.4850:[hevc @ 000001b2acaaddc0] VPS 0 does not exist
+2024-06-10 23:13:01.5070:[hevc @ 000001b2acaaddc0] PPS id out of range: 0
+2024-06-10 23:13:01.5070:[hevc @ 000001b2acaaddc0] PPS id out of range: 0
+2024-06-10 23:13:01.5070:[hevc @ 000001b2acaaddc0] Error parsing NAL unit #0.
+2024-06-10 23:13:02.2540:[hevc @ 000001b2acaac1c0] VPS 0 does not exist
+2024-06-10 23:13:02.2540:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 23:13:02.2540:[hevc @ 000001b2acaac1c0] PPS id out of range: 0
+2024-06-10 23:13:02.2540:[hevc @ 000001b2acaac1c0] Error parsing NAL unit #0.
+2024-06-10 23:32:13.2464:[tcp @ 000001b2ad940240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:15.2487:[tcp @ 000001b2ad93fc40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:17.2569:[tcp @ 000001b2ad940080] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:19.2582:[tcp @ 000001b2ad93fc40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:21.2608:[tcp @ 000001b2ad93fec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:23.2799:[tcp @ 000001b2ad93fec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:25.2792:[tcp @ 000001b2ad940880] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:27.2831:[tcp @ 000001b2ad940340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:29.2833:[tcp @ 000001b2ad940340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:31.2903:[tcp @ 000001b2ad940240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:33.2958:[tcp @ 000001b2ad93ffc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:32:35.1450:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 23:32:35.1730:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-10 23:32:35.9148:[hevc @ 000001b2acaac9c0] VPS 0 does not exist
+2024-06-10 23:32:35.9148:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 23:34:17.6686:[tcp @ 000001b2ac9ffe00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:34:19.6735:[tcp @ 000001b2ac9ffa80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:34:21.6767:[tcp @ 000001b2ac9ff480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:34:23.6810:[tcp @ 000001b2ac9ff700] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:34:25.6956:[tcp @ 000001b2ac9ffa80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:34:27.5603:[hevc @ 000001b2acaac5c0] VPS 0 does not exist
+2024-06-10 23:34:27.5931:[hevc @ 000001b2acaac5c0] VPS 0 does not exist
+2024-06-10 23:34:27.6401:[hevc @ 000001b2acaac5c0] PPS id out of range: 0
+2024-06-10 23:34:27.6401:[hevc @ 000001b2acaac5c0] PPS id out of range: 0
+2024-06-10 23:34:27.6401:[hevc @ 000001b2acaac5c0] Error parsing NAL unit #0.
+2024-06-10 23:34:28.3343:[hevc @ 000001b2acaad5c0] VPS 0 does not exist
+2024-06-10 23:34:28.3343:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-10 23:34:28.3343:[hevc @ 000001b2acaad5c0] PPS id out of range: 0
+2024-06-10 23:34:28.3343:[hevc @ 000001b2acaad5c0] Error parsing NAL unit #0.
+2024-06-10 23:54:41.3419:[tcp @ 000001b2ac330040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:54:43.3592:[tcp @ 000001b2ac330200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:54:45.3729:[tcp @ 000001b2ac330480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:54:47.3741:[tcp @ 000001b2ac3302c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:54:49.3751:[tcp @ 000001b2ac3303c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:54:51.3906:[tcp @ 000001b2ac330040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-10 23:54:53.2297:[hevc @ 000001b2acaac5c0] VPS 0 does not exist
+2024-06-10 23:54:53.2586:[hevc @ 000001b2acaac5c0] VPS 0 does not exist
+2024-06-10 23:54:54.0350:[hevc @ 000001b2acaad9c0] VPS 0 does not exist
+2024-06-10 23:54:54.0350:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1

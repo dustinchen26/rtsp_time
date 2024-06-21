@@ -1,0 +1,1945 @@
+2024-06-11 00:17:31.7337:[tcp @ 000001b2ac9ff640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:17:33.7325:[tcp @ 000001b2ac9ffe00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:17:35.7301:[tcp @ 000001b2ac9ffa80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:17:37.7460:[tcp @ 000001b2ac9ff380] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:17:39.7454:[tcp @ 000001b2ac9ffc40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:17:41.7593:[tcp @ 000001b2ac9ff1c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:17:43.6247:[hevc @ 000001b2acaac5c0] VPS 0 does not exist
+2024-06-11 00:17:43.6537:[hevc @ 000001b2acaac5c0] VPS 0 does not exist
+2024-06-11 00:17:44.4132:[hevc @ 000001b2acaad1c0] VPS 0 does not exist
+2024-06-11 00:17:44.4132:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 00:41:18.0577:[tcp @ 000001b2ac9ff100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:41:20.0606:[tcp @ 000001b2ac9ff380] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:41:22.0657:[tcp @ 000001b2ac9ff1c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:41:24.0691:[tcp @ 000001b2ac9ff540] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:41:26.0818:[tcp @ 000001b2ac9ff480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:41:28.0971:[tcp @ 000001b2ac9ffd40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:41:30.0993:[tcp @ 000001b2ac9ffe00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:41:32.1097:[tcp @ 000001b2ac9ff700] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 00:41:34.0092:[hevc @ 000001b2acc46100] VPS 0 does not exist
+2024-06-11 00:41:34.0313:[hevc @ 000001b2acc46100] VPS 0 does not exist
+2024-06-11 00:41:34.8276:[hevc @ 000001b2acaac5c0] VPS 0 does not exist
+2024-06-11 00:41:34.8276:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 01:05:57.0981:[tcp @ 000001b2ad7fd080] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:05:59.1157:[tcp @ 000001b2ad7fd880] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:06:01.1190:[tcp @ 000001b2ad7fd6c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:06:03.1311:[tcp @ 000001b2ad7fd780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:06:05.1481:[tcp @ 000001b2ad7fd6c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:06:07.0255:[hevc @ 000001b2ad5597c0] VPS 0 does not exist
+2024-06-11 01:06:07.0385:[hevc @ 000001b2ad5597c0] VPS 0 does not exist
+2024-06-11 01:06:07.8175:[hevc @ 000001b2acaa7dc0] VPS 0 does not exist
+2024-06-11 01:06:07.8175:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 01:30:01.7466:[tcp @ 000001b2ad93c440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:03.7474:[tcp @ 000001b2ad93c500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:05.7661:[tcp @ 000001b2ad93c500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:07.7652:[tcp @ 000001b2ad93c280] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:09.7711:[tcp @ 000001b2ad93c0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:11.7762:[tcp @ 000001b2ad93c280] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:13.7782:[tcp @ 000001b2ad93bfc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:15.7936:[tcp @ 000001b2ad93c500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:17.7971:[tcp @ 000001b2ad93c7c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:19.8008:[tcp @ 000001b2ad93cd00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:21.8037:[tcp @ 000001b2ad93cdc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:23.8104:[tcp @ 000001b2ad93c440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:30:25.6968:[hevc @ 000001b2acc46100] VPS 0 does not exist
+2024-06-11 01:30:25.7262:[hevc @ 000001b2acc46100] VPS 0 does not exist
+2024-06-11 01:30:26.5082:[hevc @ 000001b2acaaddc0] VPS 0 does not exist
+2024-06-11 01:30:26.5082:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 01:52:11.8814:[tcp @ 000001b2ad672e80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:52:13.8867:[tcp @ 000001b2ad6726c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:52:15.9021:[tcp @ 000001b2ad6726c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:52:17.9077:[tcp @ 000001b2ad672940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:52:19.9134:[tcp @ 000001b2ad672340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:52:21.9166:[tcp @ 000001b2ad672240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:52:23.9204:[tcp @ 000001b2ad6726c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 01:52:25.7795:[hevc @ 000001b2acc46100] VPS 0 does not exist
+2024-06-11 01:52:25.8109:[hevc @ 000001b2acc46100] VPS 0 does not exist
+2024-06-11 01:52:26.5789:[hevc @ 000001b2ac49fec0] VPS 0 does not exist
+2024-06-11 01:52:26.5789:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 02:12:45.5853:[tcp @ 000001b2aca1af80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:12:47.5863:[tcp @ 000001b2aca1ad00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:12:49.5944:[tcp @ 000001b2aca1b080] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:12:51.5951:[tcp @ 000001b2aca1b140] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:12:53.5987:[tcp @ 000001b2aca1a500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:12:55.6009:[tcp @ 000001b2aca1aec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:12:57.4504:[hevc @ 000001b2ac49c6c0] VPS 0 does not exist
+2024-06-11 02:12:57.4754:[hevc @ 000001b2ac49c6c0] VPS 0 does not exist
+2024-06-11 02:12:58.2470:[hevc @ 000001b2ac49e2c0] VPS 0 does not exist
+2024-06-11 02:12:58.2490:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 02:37:58.0792:[tcp @ 000001b2a2ff76c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:38:00.0909:[tcp @ 000001b2a2ff7880] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:38:02.1040:[tcp @ 000001b2a2ff76c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:38:04.1217:[tcp @ 000001b2a2ff84c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:38:06.1342:[tcp @ 000001b2a2ff8140] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:38:08.1490:[tcp @ 000001b2a2ff7ec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 02:38:10.0017:[hevc @ 000001b2ac4a22c0] VPS 0 does not exist
+2024-06-11 02:38:10.0291:[hevc @ 000001b2ac4a22c0] VPS 0 does not exist
+2024-06-11 02:38:10.8057:[hevc @ 000001b2ac49dec0] VPS 0 does not exist
+2024-06-11 02:38:10.8057:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 03:01:24.4270:[tcp @ 000001b2ad7fadc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:01:26.4376:[tcp @ 000001b2ad7fbbc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:01:28.4413:[tcp @ 000001b2ad7fbb00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:01:30.4531:[tcp @ 000001b2ad7fba00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:01:32.4688:[tcp @ 000001b2ad7fb240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:01:34.4844:[tcp @ 000001b2ad7fb240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:01:36.4856:[tcp @ 000001b2ad7fb240] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:01:38.3471:[hevc @ 000001b2ac4a2ec0] VPS 0 does not exist
+2024-06-11 03:01:38.3781:[hevc @ 000001b2ac4a2ec0] VPS 0 does not exist
+2024-06-11 03:01:39.1514:[hevc @ 000001b2ac4a2ac0] VPS 0 does not exist
+2024-06-11 03:01:39.1514:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 03:24:06.7540:[tcp @ 000001b2ac4ade40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:24:08.7549:[tcp @ 000001b2ac4adc80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:24:10.7716:[tcp @ 000001b2ac4ae0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:24:12.7714:[tcp @ 000001b2ac4ae000] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:24:14.7852:[tcp @ 000001b2ac4ade40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:24:16.6241:[hevc @ 000001b2ac4a2ec0] VPS 0 does not exist
+2024-06-11 03:24:16.6537:[hevc @ 000001b2ac4a2ec0] VPS 0 does not exist
+2024-06-11 03:24:17.4267:[hevc @ 000001b2ac4a0ac0] VPS 0 does not exist
+2024-06-11 03:24:17.4267:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 03:46:10.8312:[tcp @ 000001b2a2f90cc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:46:12.8360:[tcp @ 000001b2a2f91200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:46:14.8484:[tcp @ 000001b2a2f91200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:46:16.8583:[tcp @ 000001b2a2f90a00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:46:18.8603:[tcp @ 000001b2a2f91640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:46:20.8699:[tcp @ 000001b2a2f912c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 03:46:22.7197:[hevc @ 000001b2ac49e6c0] VPS 0 does not exist
+2024-06-11 03:46:22.7422:[hevc @ 000001b2ac49e6c0] VPS 0 does not exist
+2024-06-11 03:46:23.5636:[hevc @ 000001b2ac49b2c0] VPS 0 does not exist
+2024-06-11 03:46:23.5636:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 04:11:19.4655:[tcp @ 000001b2ac4ad580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:11:21.4657:[tcp @ 000001b2ac4adf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:11:23.4666:[tcp @ 000001b2ac4adac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:11:25.4705:[tcp @ 000001b2ac4adac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:11:27.4870:[tcp @ 000001b2ac4ae000] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:11:29.4915:[tcp @ 000001b2ac4ae0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:11:31.3962:[hevc @ 000001b2ac49eac0] VPS 0 does not exist
+2024-06-11 04:11:31.4260:[hevc @ 000001b2ac49eac0] VPS 0 does not exist
+2024-06-11 04:11:32.2184:[hevc @ 000001b2ac4a02c0] VPS 0 does not exist
+2024-06-11 04:11:32.2184:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 04:35:23.9409:[tcp @ 000001b2ac4ad640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:35:25.9549:[tcp @ 000001b2ac4ad580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:35:27.9597:[tcp @ 000001b2ac4ade40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:35:29.9675:[tcp @ 000001b2ac4ad2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:35:31.9729:[tcp @ 000001b2ac4ad480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:35:33.9886:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 04:35:35.8762:[hevc @ 000001b2ac49e6c0] VPS 0 does not exist
+2024-06-11 04:35:35.8893:[hevc @ 000001b2ac49e6c0] VPS 0 does not exist
+2024-06-11 04:35:35.9263:[hevc @ 000001b2ac49e6c0] PPS id out of range: 0
+2024-06-11 04:35:35.9263:[hevc @ 000001b2ac49e6c0] PPS id out of range: 0
+2024-06-11 04:35:35.9263:[hevc @ 000001b2ac49e6c0] Error parsing NAL unit #0.
+2024-06-11 04:35:36.6486:[hevc @ 000001b2ac49c6c0] VPS 0 does not exist
+2024-06-11 04:35:36.6486:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 04:35:36.6486:[hevc @ 000001b2ac49c6c0] PPS id out of range: 0
+2024-06-11 04:35:36.6486:[hevc @ 000001b2ac49c6c0] Error parsing NAL unit #0.
+2024-06-11 05:00:54.5970:[tcp @ 000001b2ad510a40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:00:56.5988:[tcp @ 000001b2ad510dc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:00:58.6031:[tcp @ 000001b2ad510340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:01:00.6062:[tcp @ 000001b2ad5106c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:01:02.6033:[tcp @ 000001b2ad510e80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:01:04.6186:[tcp @ 000001b2ad510b00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:01:06.6264:[tcp @ 000001b2ad5105c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:01:08.6306:[tcp @ 000001b2ad510400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:01:10.6331:[tcp @ 000001b2ad510f80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:01:12.6270:[tcp @ 000001b2ad510400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:01:14.6421:[tcp @ 000001b2ad510500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:01:16.5258:[hevc @ 000001b2ac4a2ec0] VPS 0 does not exist
+2024-06-11 05:01:16.5450:[hevc @ 000001b2ac4a2ec0] VPS 0 does not exist
+2024-06-11 05:01:16.5629:[hevc @ 000001b2ac4a2ec0] PPS id out of range: 0
+2024-06-11 05:01:16.5629:[hevc @ 000001b2ac4a2ec0] PPS id out of range: 0
+2024-06-11 05:01:16.5629:[hevc @ 000001b2ac4a2ec0] Error parsing NAL unit #0.
+2024-06-11 05:01:17.3066:[hevc @ 000001b2ac4a32c0] VPS 0 does not exist
+2024-06-11 05:01:17.3066:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 05:01:17.3066:[hevc @ 000001b2ac4a32c0] PPS id out of range: 0
+2024-06-11 05:01:17.3066:[hevc @ 000001b2ac4a32c0] Error parsing NAL unit #0.
+2024-06-11 05:27:33.7491:[tcp @ 000001b2ad85ab40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:27:35.7537:[tcp @ 000001b2ad85a0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:27:37.7581:[tcp @ 000001b2ad85a7c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:27:39.7630:[tcp @ 000001b2ad85aec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:27:41.7630:[tcp @ 000001b2ad85a880] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:27:43.7669:[tcp @ 000001b2ad85a600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:27:45.6476:[hevc @ 000001b2ac4a0ec0] VPS 0 does not exist
+2024-06-11 05:27:45.6583:[hevc @ 000001b2ac4a0ec0] VPS 0 does not exist
+2024-06-11 05:27:45.6808:[hevc @ 000001b2ac4a0ec0] PPS id out of range: 0
+2024-06-11 05:27:45.6808:[hevc @ 000001b2ac4a0ec0] PPS id out of range: 0
+2024-06-11 05:27:45.6808:[hevc @ 000001b2ac4a0ec0] Error parsing NAL unit #0.
+2024-06-11 05:27:46.4202:[hevc @ 000001b2ac49bec0] VPS 0 does not exist
+2024-06-11 05:27:46.4202:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 05:27:46.4202:[hevc @ 000001b2ac49bec0] PPS id out of range: 0
+2024-06-11 05:27:46.4202:[hevc @ 000001b2ac49bec0] Error parsing NAL unit #0.
+2024-06-11 05:53:20.6734:[tcp @ 000001b2ac40f280] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:53:22.6737:[tcp @ 000001b2ac40f980] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:53:24.6763:[tcp @ 000001b2ac40fdc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:53:26.6766:[tcp @ 000001b2ac40fdc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:53:28.6799:[tcp @ 000001b2ac40fd00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:53:30.6792:[tcp @ 000001b2ac40f180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:53:32.6794:[tcp @ 000001b2ac40fa40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 05:53:34.5394:[hevc @ 000001b2ac49e6c0] VPS 0 does not exist
+2024-06-11 05:53:34.5714:[hevc @ 000001b2ac49e6c0] VPS 0 does not exist
+2024-06-11 05:53:35.3433:[hevc @ 000001b2ac49dac0] VPS 0 does not exist
+2024-06-11 05:53:35.3433:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 06:15:22.7874:[tcp @ 000001b2ad566340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:15:24.7907:[tcp @ 000001b2ad566280] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:15:26.8082:[tcp @ 000001b2ad566440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:15:28.8133:[tcp @ 000001b2ad566440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:15:30.8186:[tcp @ 000001b2ad565800] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:15:32.8167:[tcp @ 000001b2ad5658c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:15:34.8191:[tcp @ 000001b2ad565a80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:15:36.7038:[hevc @ 000001b2ac49b6c0] VPS 0 does not exist
+2024-06-11 06:15:36.7235:[hevc @ 000001b2ac49b6c0] VPS 0 does not exist
+2024-06-11 06:15:37.4904:[hevc @ 000001b2ac4a16c0] VPS 0 does not exist
+2024-06-11 06:15:37.4904:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 06:39:37.2391:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:39:39.2528:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:39:41.2645:[tcp @ 000001b2ac4adc80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:39:43.2686:[tcp @ 000001b2ac4ae000] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:39:45.2708:[tcp @ 000001b2ac4adac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:39:47.2666:[tcp @ 000001b2ac4adac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 06:39:49.1630:[hevc @ 000001b2ac4a12c0] VPS 0 does not exist
+2024-06-11 06:39:49.1926:[hevc @ 000001b2ac4a12c0] VPS 0 does not exist
+2024-06-11 06:39:49.9489:[hevc @ 000001b2ac4a06c0] VPS 0 does not exist
+2024-06-11 06:39:49.9509:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 07:04:13.8470:[tcp @ 000001b2ac4adc80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:04:15.8585:[tcp @ 000001b2ac4ad9c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:04:17.8630:[tcp @ 000001b2ac4ad9c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:04:19.8659:[tcp @ 000001b2ac4adf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:04:21.8689:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:04:23.8775:[tcp @ 000001b2ac4ad800] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:04:25.8054:[hevc @ 000001b2ac49cac0] VPS 0 does not exist
+2024-06-11 07:04:25.8304:[hevc @ 000001b2ac49cac0] VPS 0 does not exist
+2024-06-11 07:04:26.5939:[hevc @ 000001b2ac49d6c0] VPS 0 does not exist
+2024-06-11 07:04:26.5939:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 07:28:02.2174:[tcp @ 000001b2ad6b0900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:28:04.2358:[tcp @ 000001b2ad6b0740] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:28:06.2511:[tcp @ 000001b2ad6b0900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:28:08.2680:[tcp @ 000001b2ad6b0b80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:28:10.2781:[tcp @ 000001b2ad6b0480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:28:12.2844:[tcp @ 000001b2ad6b09c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:28:14.2893:[tcp @ 000001b2ad6b0480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:28:16.2173:[hevc @ 000001b2ac4a1ec0] VPS 0 does not exist
+2024-06-11 07:28:16.2472:[hevc @ 000001b2ac4a1ec0] VPS 0 does not exist
+2024-06-11 07:28:17.0310:[hevc @ 000001b2ac49cac0] VPS 0 does not exist
+2024-06-11 07:28:17.0310:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 07:51:24.5430:[tcp @ 000001b2ad860740] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:26.5456:[tcp @ 000001b2ad860740] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:28.5553:[tcp @ 000001b2ad85fe80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:30.5639:[tcp @ 000001b2ad8609c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:32.5769:[tcp @ 000001b2ad860200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:34.5799:[tcp @ 000001b2ad8603c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:36.5907:[tcp @ 000001b2ad85ff40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:38.5908:[tcp @ 000001b2ad85fe80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:40.6082:[tcp @ 000001b2ad8603c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:42.6089:[tcp @ 000001b2ad860b80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:44.6117:[tcp @ 000001b2ad860480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:46.6093:[tcp @ 000001b2ad860ac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:48.6253:[tcp @ 000001b2ad8609c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:50.6226:[tcp @ 000001b2ad8603c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:52.6366:[tcp @ 000001b2ad860040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:54.6517:[tcp @ 000001b2ad8603c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:56.6562:[tcp @ 000001b2ad860200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:51:58.6599:[tcp @ 000001b2ad860c80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:52:00.6623:[tcp @ 000001b2ad860200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:52:02.6770:[tcp @ 000001b2ad85ff40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:52:04.6785:[tcp @ 000001b2ad860b80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:52:06.6934:[tcp @ 000001b2ad860ac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:52:08.7013:[tcp @ 000001b2ad860b80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:52:10.6999:[tcp @ 000001b2ad8609c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 07:52:12.5504:[hevc @ 000001b2ac49e6c0] VPS 0 does not exist
+2024-06-11 07:52:12.5843:[hevc @ 000001b2ac49e6c0] VPS 0 does not exist
+2024-06-11 07:52:13.3389:[hevc @ 000001b2ac4a0ec0] VPS 0 does not exist
+2024-06-11 07:52:13.3389:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 08:13:32.6778:[tcp @ 000001b2acc3ac00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:13:34.6818:[tcp @ 000001b2acc3a6c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:13:36.6884:[tcp @ 000001b2acc3ac00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:13:38.6873:[tcp @ 000001b2acc3a6c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:13:40.6946:[tcp @ 000001b2acc3b300] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:13:42.6967:[tcp @ 000001b2acc3ac00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:13:44.5587:[hevc @ 000001b2ac49d2c0] VPS 0 does not exist
+2024-06-11 08:13:44.5917:[hevc @ 000001b2ac49d2c0] VPS 0 does not exist
+2024-06-11 08:13:45.3495:[hevc @ 000001b2ac4a1ac0] VPS 0 does not exist
+2024-06-11 08:13:45.3495:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 08:36:22.7737:[tcp @ 000001b2ad566500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:36:24.7746:[tcp @ 000001b2ad566440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:36:26.7860:[tcp @ 000001b2ad565f00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:36:28.7851:[tcp @ 000001b2ad565c40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:36:30.8006:[tcp @ 000001b2ad565d40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:36:32.8023:[tcp @ 000001b2ad565b80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:36:34.8130:[tcp @ 000001b2ad565a80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:36:36.8304:[tcp @ 000001b2ad566440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:36:38.9275:[hevc @ 000001b2ac4a12c0] VPS 0 does not exist
+2024-06-11 08:36:38.9474:[hevc @ 000001b2ac4a12c0] VPS 0 does not exist
+2024-06-11 08:36:39.7212:[hevc @ 000001b2ac49eec0] VPS 0 does not exist
+2024-06-11 08:36:39.7212:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 08:40:07.4242:[tcp @ 000001b2ac9ff640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:40:09.4307:[tcp @ 000001b2ac9ffe00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:40:11.4348:[tcp @ 000001b2ac9ff480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:40:13.4361:[tcp @ 000001b2ac9ff380] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:40:15.4386:[tcp @ 000001b2ac9ff2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:40:17.4405:[tcp @ 000001b2ac9ff1c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 08:40:19.3479:[hevc @ 000001b2ac49f2c0] VPS 0 does not exist
+2024-06-11 08:40:19.3479:[hevc @ 000001b2ac49f2c0] VPS 0 does not exist
+2024-06-11 08:40:19.4015:[hevc @ 000001b2ac49f2c0] PPS id out of range: 0
+2024-06-11 08:40:19.4015:[hevc @ 000001b2ac49f2c0] PPS id out of range: 0
+2024-06-11 08:40:19.4015:[hevc @ 000001b2ac49f2c0] Error parsing NAL unit #0.
+2024-06-11 08:40:20.1293:[hevc @ 000001b2ac49e6c0] VPS 0 does not exist
+2024-06-11 08:40:20.1293:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 08:40:20.1293:[hevc @ 000001b2ac49e6c0] PPS id out of range: 0
+2024-06-11 08:40:20.1293:[hevc @ 000001b2ac49e6c0] Error parsing NAL unit #0.
+2024-06-11 09:04:54.1639:[tcp @ 000001b2aca1fc80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:04:56.1726:[tcp @ 000001b2aca1f800] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:04:58.1839:[tcp @ 000001b2aca1f040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:05:00.2031:[tcp @ 000001b2aca1f580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:05:02.2039:[tcp @ 000001b2aca1f900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:05:04.2083:[tcp @ 000001b2aca1f580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:05:06.0703:[hevc @ 000001b2ac49bac0] VPS 0 does not exist
+2024-06-11 09:05:06.0953:[hevc @ 000001b2ac49bac0] VPS 0 does not exist
+2024-06-11 09:05:06.8651:[hevc @ 000001b2ac49b6c0] VPS 0 does not exist
+2024-06-11 09:05:06.8651:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 09:28:00.4236:[tcp @ 000001b2acab6f80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:28:02.4257:[tcp @ 000001b2acab6d00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:28:04.4254:[tcp @ 000001b2acab6dc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:28:06.4300:[tcp @ 000001b2acab6600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:28:08.4382:[tcp @ 000001b2acab7140] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:28:10.4451:[tcp @ 000001b2acab66c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:28:12.3060:[hevc @ 000001b2ac4a22c0] VPS 0 does not exist
+2024-06-11 09:28:12.3410:[hevc @ 000001b2ac4a22c0] VPS 0 does not exist
+2024-06-11 09:28:12.3480:[hevc @ 000001b2ac4a22c0] PPS id out of range: 0
+2024-06-11 09:28:12.3480:[hevc @ 000001b2ac4a22c0] PPS id out of range: 0
+2024-06-11 09:28:12.3480:[hevc @ 000001b2ac4a22c0] Error parsing NAL unit #0.
+2024-06-11 09:28:13.1034:[hevc @ 000001b2ac49eac0] VPS 0 does not exist
+2024-06-11 09:28:13.1034:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 09:28:13.1034:[hevc @ 000001b2ac49eac0] PPS id out of range: 0
+2024-06-11 09:28:13.1034:[hevc @ 000001b2ac49eac0] Error parsing NAL unit #0.
+2024-06-11 09:39:16.5289:[tcp @ 000001b2ac4adf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:39:18.5354:[tcp @ 000001b2ac4adf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:39:20.5383:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:39:22.5446:[tcp @ 000001b2ac4ad480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:39:24.5570:[tcp @ 000001b2ac4adac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:39:26.5758:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 09:39:28.4622:[hevc @ 000001b2ac49f2c0] VPS 0 does not exist
+2024-06-11 09:39:28.4870:[hevc @ 000001b2ac49f2c0] VPS 0 does not exist
+2024-06-11 09:39:29.2538:[hevc @ 000001b2ac49f6c0] VPS 0 does not exist
+2024-06-11 09:39:29.2538:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 10:01:44.7519:[tcp @ 000001b2ac4ae0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:01:46.7670:[tcp @ 000001b2ac4ae0c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:01:48.7827:[tcp @ 000001b2ac4add40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:01:50.7840:[tcp @ 000001b2ac4ad900] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:01:52.7836:[tcp @ 000001b2ac4ae000] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:01:54.6565:[hevc @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 10:01:54.6866:[hevc @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 10:01:54.6866:[hevc @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 10:01:54.6866:[hevc @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 10:01:54.6866:[hevc @ 000001b2ac49fac0] Error parsing NAL unit #0.
+2024-06-11 10:01:55.4423:[hevc @ 000001b2ac4a36c0] VPS 0 does not exist
+2024-06-11 10:01:55.4423:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 10:01:55.4423:[hevc @ 000001b2ac4a36c0] PPS id out of range: 0
+2024-06-11 10:01:55.4423:[hevc @ 000001b2ac4a36c0] Error parsing NAL unit #0.
+2024-06-11 10:11:28.5477:[tcp @ 000001b2a2ffea40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:11:30.5612:[tcp @ 000001b2a2ffe280] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:11:32.5663:[tcp @ 000001b2a2ffe440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:11:34.5702:[tcp @ 000001b2a2ffec00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:11:36.5753:[tcp @ 000001b2a2ffdf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:11:38.9774:[hevc @ 000001b2ac4a12c0] VPS 0 does not exist
+2024-06-11 10:11:38.9975:[hevc @ 000001b2ac4a12c0] VPS 0 does not exist
+2024-06-11 10:11:39.7740:[hevc @ 000001b2ac4a22c0] VPS 0 does not exist
+2024-06-11 10:11:39.7740:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 10:12:04.6390:[tcp @ 000001b2acc3aa80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:12:06.6454:[tcp @ 000001b2acc3aa80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:12:08.6470:[tcp @ 000001b2acc3ae00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:12:10.6539:[tcp @ 000001b2acc3afc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:12:12.6546:[tcp @ 000001b2acc3b180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:12:14.6588:[tcp @ 000001b2acc3ac40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:12:16.5221:[hevc @ 000001b2ac4a1ec0] VPS 0 does not exist
+2024-06-11 10:12:16.5614:[hevc @ 000001b2ac4a1ec0] VPS 0 does not exist
+2024-06-11 10:12:17.3496:[hevc @ 000001b2ac4a12c0] VPS 0 does not exist
+2024-06-11 10:12:17.3496:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 10:34:04.8580:[tcp @ 000001b2a2ffdf00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:34:06.8720:[tcp @ 000001b2a2ffe600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:34:08.8813:[tcp @ 000001b2a2ffe180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:34:10.8982:[tcp @ 000001b2a2ffe180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:34:12.9130:[tcp @ 000001b2a2ffe6c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:34:14.7894:[hevc @ 000001b2ac49f2c0] VPS 0 does not exist
+2024-06-11 10:34:14.8203:[hevc @ 000001b2ac49f2c0] VPS 0 does not exist
+2024-06-11 10:34:15.6244:[hevc @ 000001b2ac49cec0] VPS 0 does not exist
+2024-06-11 10:34:15.6244:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 10:53:54.4596:[tcp @ 000001b2ac3302c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:53:56.4758:[tcp @ 000001b2ac330580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:53:58.4778:[tcp @ 000001b2ac32ff40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:54:00.4942:[tcp @ 000001b2ac330ac0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:54:02.4995:[tcp @ 000001b2ac330580] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:54:04.5141:[tcp @ 000001b2ac330640] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 10:54:06.3797:[hevc @ 000001b2ac49c2c0] VPS 0 does not exist
+2024-06-11 10:54:06.4117:[hevc @ 000001b2ac49c2c0] VPS 0 does not exist
+2024-06-11 10:54:07.1728:[hevc @ 000001b2ac4a26c0] VPS 0 does not exist
+2024-06-11 10:54:07.1728:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 11:14:40.5167:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:14:42.5305:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:14:44.5464:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:14:46.5572:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:14:48.5690:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:14:50.5824:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:14:52.5935:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:14:54.5936:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:14:56.5942:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:14:58.6127:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:00.6190:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:02.6240:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:04.6377:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:06.6547:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:08.6680:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:10.6799:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:12.6939:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:14.6934:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:16.7059:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:18.7167:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:20.7369:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:22.7468:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:24.7633:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:26.7760:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:28.7873:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:30.8027:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:32.8154:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:34.8337:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:36.8451:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:38.8579:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:40.8736:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:42.8838:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:44.8960:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:46.9072:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:48.9182:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:50.9339:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:52.9485:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:54.9624:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:56.9633:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:15:58.9743:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:00.9884:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:02.9919:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:05.0035:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:07.0213:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:09.0324:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:11.0479:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:13.0498:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:15.0508:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:17.0635:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:19.0776:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:21.0791:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:23.0951:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:25.1038:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:27.1180:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:29.1320:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:31.1453:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:33.1558:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:35.1588:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:37.1740:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:39.1765:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:41.1712:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:43.1818:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:45.1899:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:47.2049:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:49.2151:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:51.2271:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:53.2358:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:55.2467:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:57.2619:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:16:59.2764:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:01.2922:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:03.3043:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:05.3096:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:07.3128:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:09.3148:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:11.3285:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:13.3401:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:15.3560:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:17.3714:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:19.3753:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:21.3897:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:23.3919:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:25.3973:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:27.4143:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:29.4292:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:31.4308:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:33.4442:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:35.4568:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:37.4584:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:39.4709:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:41.4840:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:43.4852:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:45.4878:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:47.5008:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:49.5143:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:51.5268:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:53.5388:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:55.5435:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:57.5583:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:17:59.5634:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:01.5684:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:03.5708:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:05.5854:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:07.5856:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:09.5889:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:11.5941:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:13.6038:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:15.6185:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:17.6194:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:19.6312:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:21.6327:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:23.6297:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:25.6440:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:27.6557:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:29.6694:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:31.6732:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:33.6715:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:35.6873:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:37.7019:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:39.7170:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:41.7212:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:43.7239:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:45.7234:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:47.7395:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:49.7473:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:51.7607:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:53.7707:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:55.7761:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:57.7803:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:18:59.7807:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:01.7864:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:03.7878:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:05.7883:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:07.7927:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:09.7915:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:11.7969:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:13.8141:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:15.8126:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:17.8266:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:19.8287:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:21.8460:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:23.8458:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:25.8588:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:27.8706:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:29.8870:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:31.8901:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:33.8879:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:35.9007:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:37.9177:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:39.9325:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:41.9517:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:43.9618:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:45.9769:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:47.9765:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:49.9871:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:52.0003:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:54.0166:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:56.0298:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:19:58.0298:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:00.0443:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:02.0631:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:04.0662:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:06.0809:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:08.0847:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:10.1013:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:12.1047:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:14.1093:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:16.1236:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:18.1378:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:20.1386:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:22.1521:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:24.1623:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:26.1783:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:28.1877:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:30.2032:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:32.2045:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:34.2045:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:36.2068:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:38.2126:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:40.2281:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:42.2414:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:44.2472:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:46.2647:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:48.2770:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:50.2820:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:52.2829:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:54.2975:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:56.2988:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:20:58.3151:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:00.3263:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:02.3366:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:04.3477:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:06.3627:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:08.3674:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:10.3844:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:12.3969:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:14.3979:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:16.4134:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:18.4298:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:20.4290:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:22.4411:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:24.4567:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:26.4637:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:28.4789:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:30.4954:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:32.4951:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:34.5088:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:36.5190:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:38.5327:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:40.5441:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:42.5527:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:44.5655:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:46.5821:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:48.5851:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:50.5961:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:52.6128:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:54.6272:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:56.6424:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:21:58.6427:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:00.6487:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:02.6542:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:04.6556:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:06.6583:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:08.6714:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:10.6749:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:12.6903:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:14.6925:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:16.7053:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:18.7068:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:20.7057:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:22.7119:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:24.7110:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:26.7279:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:28.7406:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:30.7522:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:32.7521:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:34.7678:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:36.7769:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:38.7839:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:40.7961:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:42.8070:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:44.8262:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:46.8391:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:48.8547:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:50.8658:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:52.8673:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:54.8834:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:56.8966:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:22:58.9091:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:00.9089:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:02.9261:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:04.9277:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:06.9467:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:08.9484:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:10.9595:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:12.9810:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:14.9821:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:16.9939:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:19.0060:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:21.0165:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:23.0303:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:25.0450:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:27.0596:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:29.0666:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:31.0849:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:33.1009:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:35.1066:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:37.1164:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:39.1303:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:41.1280:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:43.1426:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:45.1466:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:47.1591:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:49.1719:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:51.1695:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:53.1886:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:55.1900:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:57.1935:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:23:59.1945:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:01.1984:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:03.2071:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:05.2277:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:07.2278:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:09.2318:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:11.2303:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:13.2425:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:15.2620:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:17.2708:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:19.2736:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:21.2879:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:23.2881:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:25.3058:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:27.3235:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:29.3346:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:31.3381:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:33.3359:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:35.3512:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:37.3643:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:39.3750:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:41.3866:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:43.3984:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:45.4010:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:47.4165:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:49.4288:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:51.4465:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:53.4600:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:55.4579:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:57.4674:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:24:59.4649:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:01.4662:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:03.4811:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:05.4966:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:07.5122:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:09.5151:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:11.5291:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:13.5317:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:15.5350:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:17.5387:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:19.5521:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:21.5564:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:23.5636:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:25.5632:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:27.5730:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:29.5822:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:31.5970:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:33.6111:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:35.6167:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:37.6295:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:39.6447:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:41.6463:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:43.6624:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:45.6588:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:47.6753:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:49.6740:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:51.6787:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:53.6739:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:55.6891:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:57.7029:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:25:59.7144:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:01.7308:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:03.7335:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:05.7369:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:07.7515:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:09.7670:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:11.7767:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:13.7760:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:15.7776:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:17.7932:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:19.8104:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:21.8079:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:23.8178:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:25.8346:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:27.8412:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:29.8559:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:31.8699:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:33.8815:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:35.8954:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:37.9094:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:39.9220:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:41.9349:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:43.9485:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:45.9592:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:47.9708:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:49.9820:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:51.9951:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:54.0122:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:56.0305:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:26:58.0355:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:00.0419:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:02.0468:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:04.0478:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:06.0501:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:08.0560:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:10.0707:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:12.0730:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:14.0873:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:16.0853:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:18.1040:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:20.1069:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:22.1124:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:24.1130:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:26.1136:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:28.1320:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:30.1408:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:32.1552:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:34.1545:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:36.1713:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:38.1750:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:40.1738:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:42.1805:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:44.1806:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:46.1913:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:48.2055:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:50.2044:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:52.2091:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:54.2071:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:56.2189:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:27:58.2312:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:00.2318:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:02.2501:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:04.2502:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:06.2674:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:08.2798:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:10.2846:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:12.2909:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:14.2964:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:16.3106:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:18.3177:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:20.3177:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:22.3346:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:24.3470:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:26.3466:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:28.3596:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:30.3703:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:32.3858:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:34.4004:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:36.4170:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:38.4219:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:40.4358:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:42.4466:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:44.4613:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:46.4737:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:48.4875:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:50.4954:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:52.5060:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:54.5084:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:56.5230:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:28:58.5365:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:00.5513:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:02.5624:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:04.5781:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:06.5931:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:08.6058:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:10.6066:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:12.6097:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:14.6160:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:16.6289:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:18.6462:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:20.6443:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:22.6619:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:24.6648:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:26.6766:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:28.6767:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:30.6930:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:32.7077:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:34.7217:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:36.7191:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:38.7347:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:40.7350:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:42.7389:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:44.7509:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:46.7670:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:48.7823:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:50.7980:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:52.8012:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:54.8031:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:56.8181:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:29:58.8234:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:00.8263:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:02.8287:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:04.8406:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:06.8427:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:08.8579:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:10.8570:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:12.8745:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:14.8790:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:16.8817:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:18.8843:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:20.8985:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:22.9032:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:24.9037:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:26.9172:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:28.9282:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:30.9279:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:32.9389:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:34.9534:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:36.9670:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:38.9763:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:40.9856:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:42.9998:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:45.0167:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:47.0182:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:49.0358:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:51.0368:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:53.0409:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:55.0552:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:57.0624:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:30:59.0663:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:01.0689:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:03.0729:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:05.0779:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:07.0784:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:09.0812:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:11.0856:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:13.1001:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:15.1009:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:17.1147:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:19.1201:[tcp @ 000001b2acc3b2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:21.1276:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:23.1276:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:25.1433:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:27.1579:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:29.1601:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:31.1591:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:33.1724:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:35.1862:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:37.2054:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:39.2030:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:41.2163:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:43.2339:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:45.2447:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:47.2500:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:49.2532:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:51.2545:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:53.2555:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:55.2695:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:57.2843:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:31:59.2971:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:01.3080:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:03.3240:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:05.3376:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:07.3392:[tcp @ 000001b2acc3ad80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:09.3526:[tcp @ 000001b2acc3b3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:11.3545:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:13.3674:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:15.3857:[tcp @ 000001b2acc3acc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:17.3876:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:19.4004:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:21.4176:[tcp @ 000001b2acc3b200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:23.4171:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:25.4357:[tcp @ 000001b2acc3abc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:27.4474:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:29.4635:[tcp @ 000001b2acc3ae80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:31.4725:[tcp @ 000001b2acc3ab00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:33.4853:[tcp @ 000001b2acc3af40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:35.4915:[tcp @ 000001b2acc3a840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:37.5036:[tcp @ 000001b2acc3b040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:39.5135:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:41.5282:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:43.5411:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:45.5453:[tcp @ 000001b2acc3aa00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:47.5584:[tcp @ 000001b2acc3a5c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:49.5696:[tcp @ 000001b2acc3a940] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:51.5879:[tcp @ 000001b2acc3a680] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:53.6016:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:55.6122:[tcp @ 000001b2acc3b100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:57.6272:[tcp @ 000001b2acc3a780] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 11:32:59.5349:[hevc @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 11:32:59.5605:[hevc @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 11:33:00.3213:[hevc @ 000001b2ac49f2c0] VPS 0 does not exist
+2024-06-11 11:33:00.3213:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 11:57:16.8579:[NULL @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 11:57:16.8579:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.8929:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.8929:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.9081:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.9081:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.9261:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.9372:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.9372:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.9587:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.9677:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.9677:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.9868:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:16.9868:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0025:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0163:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0163:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0343:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0343:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0518:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0518:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0668:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0768:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0768:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0951:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.0951:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1121:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1121:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1284:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1284:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1434:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1434:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1598:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1696:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1696:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1863:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.1863:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2016:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2016:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2189:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2189:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2189:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2329:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2329:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2329:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2329:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2514:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2658:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.2877:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.3508:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.3508:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.3658:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.4404:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.4404:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.5029:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.5225:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.5808:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.5808:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.5982:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.6328:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.7008:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.7225:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.7956:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.7956:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.8728:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.8728:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.9477:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.9517:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.9517:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:17.9783:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.0018:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.0675:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.0675:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.1678:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.1758:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.2000:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.2127:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.2833:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.2833:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.3000:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.3327:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.3977:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.4108:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.4928:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.4988:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.5423:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.5557:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.6401:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.6401:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.6683:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.6807:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.7507:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.7507:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.7657:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.8375:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.8808:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.8921:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.9329:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:18.9477:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.0224:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.0224:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.0833:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.0833:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.1007:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.1703:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.2371:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.2371:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.2496:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.3378:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.3433:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.3657:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.3777:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.4577:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.4577:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.5369:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.5369:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 11:57:19.5474:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:19:23.0775:[tcp @ 000001b2adcbdb00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 12:19:25.0793:[tcp @ 000001b2adcbdf40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 12:19:27.0841:[tcp @ 000001b2adcbdcc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 12:19:28.9675:[hevc @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 12:19:28.9921:[hevc @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 12:19:29.7711:[hevc @ 000001b2ac4a1ec0] VPS 0 does not exist
+2024-06-11 12:19:29.7711:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 12:39:32.2286:[NULL @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 12:39:32.2286:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.2346:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.2346:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.2536:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.2536:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.2699:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.2699:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.2859:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.2953:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.2953:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3117:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3117:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3276:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3276:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3434:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3434:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3619:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3619:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3767:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3767:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3950:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.3950:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4098:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4098:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4292:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4365:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4365:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4525:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4525:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4692:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4692:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4852:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.4852:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5012:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5012:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5184:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5298:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5298:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5446:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5446:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5621:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5621:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5621:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5793:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.5793:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.6364:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.6405:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.7116:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.7176:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.7615:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.7665:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.8466:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.8466:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.9114:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.9114:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.9214:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.9832:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:39:32.9832:[NULL @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 12:59:00.5491:[hevc @ 000001b2ac49bac0] VPS 0 does not exist
+2024-06-11 12:59:00.5758:[hevc @ 000001b2ac49bac0] VPS 0 does not exist
+2024-06-11 12:59:01.4077:[hevc @ 000001b2ac4a2ec0] VPS 0 does not exist
+2024-06-11 12:59:01.4077:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 13:19:14.5439:[tcp @ 000001b2adcbe2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 13:19:16.5467:[tcp @ 000001b2adcbe480] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 13:19:18.5498:[tcp @ 000001b2adcbdb00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 13:19:20.5499:[tcp @ 000001b2adcbe040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 13:19:22.4603:[hevc @ 000001b2ac49bac0] VPS 0 does not exist
+2024-06-11 13:19:22.4812:[hevc @ 000001b2ac49bac0] VPS 0 does not exist
+2024-06-11 13:19:22.4963:[hevc @ 000001b2ac49bac0] PPS id out of range: 0
+2024-06-11 13:19:22.4963:[hevc @ 000001b2ac49bac0] PPS id out of range: 0
+2024-06-11 13:19:22.4963:[hevc @ 000001b2ac49bac0] Error parsing NAL unit #0.
+2024-06-11 13:19:23.2421:[hevc @ 000001b2ac4a3ec0] VPS 0 does not exist
+2024-06-11 13:19:23.2421:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 13:19:23.2421:[hevc @ 000001b2ac4a3ec0] PPS id out of range: 0
+2024-06-11 13:19:23.2421:[hevc @ 000001b2ac4a3ec0] Error parsing NAL unit #0.
+2024-06-11 13:23:05.2806:[tcp @ 000001b2adcbe3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 13:23:07.2841:[tcp @ 000001b2adcbdf40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 13:23:09.2807:[tcp @ 000001b2adcbe3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 13:23:11.1591:[hevc @ 000001b2ac49d2c0] VPS 0 does not exist
+2024-06-11 13:23:11.1957:[hevc @ 000001b2ac49d2c0] VPS 0 does not exist
+2024-06-11 13:23:11.9710:[hevc @ 000001b2ac49bac0] VPS 0 does not exist
+2024-06-11 13:23:11.9710:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 13:41:49.2405:[NULL @ 000001b2ac49d2c0] VPS 0 does not exist
+2024-06-11 13:41:49.2405:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.2505:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.2505:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.2645:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.2645:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.2951:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.2951:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3101:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3101:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3101:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3331:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3331:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3476:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3476:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3621:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3621:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3778:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3778:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.3948:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4048:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4048:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4048:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4048:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4238:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4238:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4238:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4378:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4378:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4378:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4528:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4528:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4528:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4668:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4668:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.4668:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.5853:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.5930:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.5930:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.5930:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.6079:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.6079:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.6079:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.6079:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.6269:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.6269:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.6269:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.6828:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.6878:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.7383:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.7383:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.8201:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.8201:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.8803:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.8803:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.9683:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:49.9683:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.0128:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.0178:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.0178:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.1151:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.1151:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.1758:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.1758:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.2553:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.2553:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.3352:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.3413:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.3413:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.3413:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.4202:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.5133:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.5133:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.5133:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.5303:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.5953:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.6799:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.6799:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.6894:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.7703:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.7703:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.7804:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.8402:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.8443:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.9202:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:50.9202:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:51.0053:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:51.0053:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:51.0143:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:51.0752:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:51.0803:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:51.1682:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:51.1733:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:51.1733:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 13:41:51.1879:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:01:32.1712:[tcp @ 000001b2ac9a2840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 14:01:34.1722:[tcp @ 000001b2ac9a2840] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 14:01:36.1857:[tcp @ 000001b2ac9a32c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 14:01:38.0604:[hevc @ 000001b2ac4a3ac0] VPS 0 does not exist
+2024-06-11 14:01:38.0775:[hevc @ 000001b2ac4a3ac0] VPS 0 does not exist
+2024-06-11 14:01:38.8527:[hevc @ 000001b2ac49c2c0] VPS 0 does not exist
+2024-06-11 14:01:38.8527:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 14:20:23.5302:[hevc @ 000001b2ac49d2c0] VPS 0 does not exist
+2024-06-11 14:20:23.5642:[hevc @ 000001b2ac49d2c0] VPS 0 does not exist
+2024-06-11 14:20:24.3467:[hevc @ 000001b2ac4a6ac0] VPS 0 does not exist
+2024-06-11 14:20:24.3467:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 14:40:14.2681:[NULL @ 000001b2ac49d2c0] VPS 0 does not exist
+2024-06-11 14:40:14.2938:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.2998:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.2998:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3148:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3148:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3388:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3438:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3438:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3616:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3616:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3787:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3787:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3951:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.3951:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4101:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4101:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4291:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4366:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4366:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4516:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4516:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4693:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4693:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4863:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.4863:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5023:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5023:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5207:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5300:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5300:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5450:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5450:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5450:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5450:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5635:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5635:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5635:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5775:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5775:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5775:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5925:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5925:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5925:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.5925:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.6105:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.6556:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.6556:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.7336:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.7336:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.7336:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.8106:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.8106:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.8934:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.8934:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.9786:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.9836:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:14.9836:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.0686:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.0686:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.1436:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.1436:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.1574:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.2260:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.2330:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.2979:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.2979:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.3784:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.3784:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.3894:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.4534:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.4534:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.5156:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.5156:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.5788:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:40:15.5788:[NULL @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 14:59:38.8116:[hevc @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 14:59:38.8275:[hevc @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 14:59:38.8426:[hevc @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 14:59:38.8426:[hevc @ 000001b2ac49fac0] PPS id out of range: 0
+2024-06-11 14:59:38.8426:[hevc @ 000001b2ac49fac0] Error parsing NAL unit #0.
+2024-06-11 14:59:39.5902:[hevc @ 000001b2ac4a42c0] VPS 0 does not exist
+2024-06-11 14:59:39.5922:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 14:59:39.5922:[hevc @ 000001b2ac4a42c0] PPS id out of range: 0
+2024-06-11 14:59:39.5922:[hevc @ 000001b2ac4a42c0] Error parsing NAL unit #0.
+2024-06-11 15:18:40.3998:[tcp @ 000001b2adcbe3c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 15:18:42.4047:[tcp @ 000001b2adcbe200] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 15:18:44.4381:[hevc @ 000001b2ac4a3ac0] VPS 0 does not exist
+2024-06-11 15:18:44.4697:[hevc @ 000001b2ac4a3ac0] VPS 0 does not exist
+2024-06-11 15:18:45.2386:[hevc @ 000001b2ac4a46c0] VPS 0 does not exist
+2024-06-11 15:18:45.2386:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 15:37:00.4750:[NULL @ 000001b2ac4a3ac0] VPS 0 does not exist
+2024-06-11 15:37:00.5228:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.5228:[hevc @ 000001b2ac4a46c0] Could not find ref with POC 0
+2024-06-11 15:37:00.6057:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.6127:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.6227:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.6556:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.7227:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.7227:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.7656:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.7877:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.8225:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.8606:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.9407:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.9407:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:00.9706:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.0406:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.0466:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.0705:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.1456:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.1456:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.1850:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.1910:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.2528:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.3056:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.3157:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.3273:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.3518:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.4407:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.4407:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.4533:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.4876:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.5653:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.5871:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.6005:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.6203:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.7076:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.7166:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.7166:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.7956:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.7956:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.8528:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.8806:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.9506:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.9506:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:01.9869:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.0005:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.0707:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.0767:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.0767:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.1551:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.1870:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.1870:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.2706:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.2706:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.2876:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.3206:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.3518:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.4426:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.4426:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.4586:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.4849:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.5548:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.5871:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.6026:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.6206:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.7077:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.7077:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.7237:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.7901:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.8200:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.8327:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.8519:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.9406:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.9406:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.9571:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:02.9876:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.0706:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.0877:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.1051:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.1606:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.1876:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.1876:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.2756:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.2806:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.3406:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.3457:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.3457:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.4276:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.4648:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.4780:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.5550:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.5600:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.5871:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.6005:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.6706:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.6706:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.6856:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.7706:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.7706:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.7856:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.8605:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.9006:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.9125:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.9531:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:03.9531:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.0406:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.0446:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.0446:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.1275:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.1526:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.1655:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.2404:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.2404:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.3106:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.3106:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.4006:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.4056:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.4806:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.4856:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:37:04.4856:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.1225:[NULL @ 000001b2ac4a3ac0] VPS 0 does not exist
+2024-06-11 15:56:41.1225:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.1281:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.1281:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.1442:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.1541:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.1541:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.1789:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.1890:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.1890:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.2060:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.2210:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.2210:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.2371:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.2371:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.2543:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 15:56:41.2543:[NULL @ 000001b2ac4a3ac0] PPS id out of range: 0
+2024-06-11 16:15:56.4278:[hevc @ 000001b2ac4a4ac0] VPS 0 does not exist
+2024-06-11 16:15:56.4514:[hevc @ 000001b2ac4a4ac0] VPS 0 does not exist
+2024-06-11 16:15:57.2146:[hevc @ 000001b2ac4a3ac0] VPS 0 does not exist
+2024-06-11 16:15:57.2166:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 16:35:19.9929:[hevc @ 000001b2ac4a4ac0] VPS 0 does not exist
+2024-06-11 16:35:20.0111:[hevc @ 000001b2ac4a4ac0] VPS 0 does not exist
+2024-06-11 16:35:20.0341:[hevc @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:35:20.0341:[hevc @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:35:20.0341:[hevc @ 000001b2ac4a4ac0] Error parsing NAL unit #0.
+2024-06-11 16:35:20.7846:[hevc @ 000001b2ac49d2c0] VPS 0 does not exist
+2024-06-11 16:35:20.7846:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 16:35:20.7846:[hevc @ 000001b2ac49d2c0] PPS id out of range: 0
+2024-06-11 16:35:20.7846:[hevc @ 000001b2ac49d2c0] Error parsing NAL unit #0.
+2024-06-11 16:53:02.8441:[NULL @ 000001b2ac4a4ac0] VPS 0 does not exist
+2024-06-11 16:53:02.8441:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.8441:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.8695:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.8895:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.8895:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.9195:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.9195:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.9661:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.9831:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.9992:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.9992:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:02.9992:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0132:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0132:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0132:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0132:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0322:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0322:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0322:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0477:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0477:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0477:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0607:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0607:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0607:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0607:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0797:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0797:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0797:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0937:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0937:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.0937:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1077:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1077:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1077:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1077:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1257:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1257:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1257:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1397:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1397:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1397:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1539:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.1859:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.2140:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.2259:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.2939:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.3141:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.3286:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.4089:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.4089:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.4788:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.4828:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.5590:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.5650:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.6340:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.6390:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.6390:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.6390:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.7160:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.7459:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.7609:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.8342:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.8421:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.8421:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.9136:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.9860:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:03.9860:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:04.0365:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 16:53:04.0365:[NULL @ 000001b2ac4a4ac0] PPS id out of range: 0
+2024-06-11 17:12:21.1912:[tcp @ 000001b2ac9ff380] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 17:12:23.1922:[tcp @ 000001b2ac9ffa80] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 17:12:25.0875:[hevc @ 000001b2ac4a4ac0] VPS 0 does not exist
+2024-06-11 17:12:25.1146:[hevc @ 000001b2ac4a4ac0] VPS 0 does not exist
+2024-06-11 17:12:25.8737:[hevc @ 000001b2ac4a66c0] VPS 0 does not exist
+2024-06-11 17:12:25.8737:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 17:32:00.9132:[tcp @ 000001b2ad510180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 17:32:02.9234:[tcp @ 000001b2ad510dc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 17:32:04.9375:[tcp @ 000001b2ad510880] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 17:32:06.9528:[tcp @ 000001b2ad510400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 17:32:08.8137:[hevc @ 000001b2ac4a4ac0] VPS 0 does not exist
+2024-06-11 17:32:08.8382:[hevc @ 000001b2ac4a4ac0] VPS 0 does not exist
+2024-06-11 17:32:09.6050:[hevc @ 000001b2ac4a6ec0] VPS 0 does not exist
+2024-06-11 17:32:09.6070:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 17:32:20.9956:[tcp @ 000001b2adc88080] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 17:32:22.9077:[hevc @ 000001b2ac4a72c0] VPS 0 does not exist
+2024-06-11 17:32:22.9346:[hevc @ 000001b2ac4a72c0] VPS 0 does not exist
+2024-06-11 17:32:23.7107:[hevc @ 000001b2ac4a4ac0] VPS 0 does not exist
+2024-06-11 17:32:23.7107:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 17:51:02.6939:[tcp @ 000001b2ac40f340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 17:51:04.6959:[tcp @ 000001b2ac40f6c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 17:51:06.6963:[tcp @ 000001b2ac40f440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 17:51:08.6108:[hevc @ 000001b2ac4a4ec0] VPS 0 does not exist
+2024-06-11 17:51:08.6368:[hevc @ 000001b2ac4a4ec0] VPS 0 does not exist
+2024-06-11 17:51:09.3924:[hevc @ 000001b2ac4a72c0] VPS 0 does not exist
+2024-06-11 17:51:09.3924:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 18:10:14.2767:[tcp @ 000001b2ad910000] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 18:10:16.1264:[hevc @ 000001b2ac4a4ec0] VPS 0 does not exist
+2024-06-11 18:10:16.1548:[hevc @ 000001b2ac4a4ec0] VPS 0 does not exist
+2024-06-11 18:10:16.9147:[hevc @ 000001b2ac4a52c0] VPS 0 does not exist
+2024-06-11 18:10:16.9147:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 18:29:56.0411:[tcp @ 000001b2aca1f440] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 18:29:58.0451:[tcp @ 000001b2aca1f600] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 18:29:59.8977:[hevc @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 18:29:59.9373:[hevc @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 18:30:00.6980:[hevc @ 000001b2ac4aaac0] VPS 0 does not exist
+2024-06-11 18:30:00.6980:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 18:50:21.4347:[NULL @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 18:50:21.4357:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.4528:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.4528:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.4827:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.4827:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.4827:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5091:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5178:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5178:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5330:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5330:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5520:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5520:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5702:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5810:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5810:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5965:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.5965:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.6145:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.6245:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.6245:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.6478:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.6548:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.6548:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.6705:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.6705:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.6907:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.6907:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7067:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7067:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7167:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7167:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7167:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7167:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7347:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7347:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7347:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7482:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7482:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7482:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7482:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7662:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7662:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7662:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7812:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7812:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.7812:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.8720:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.8770:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.9127:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:21.9377:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.0096:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.0136:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.0136:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.0997:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.1077:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.1341:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.1476:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.2226:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.2226:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.2675:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.2797:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.3476:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.4146:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.4206:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.4206:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.5028:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.5028:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.5700:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.5700:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.6446:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.6446:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.6577:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.7371:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.7371:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.8077:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.8117:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.8898:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.8898:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.9626:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.9666:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:22.9666:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.0426:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.0466:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.1226:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.1226:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.1977:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.2057:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.2057:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.2797:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.2797:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.3391:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.3441:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.4176:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.4236:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.4926:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.4986:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.4986:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.5672:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.5672:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.6417:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.6417:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.7292:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.7382:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.8024:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.8024:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.8178:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.8837:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.8912:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.9197:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 18:50:23.9197:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.4124:[NULL @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 19:10:39.4124:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.4204:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.4204:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.4390:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.4599:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.4686:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.4686:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.4849:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.4983:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.4983:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.5176:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.5176:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.5362:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.5362:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.5511:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.5605:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.5605:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.5820:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.5820:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6028:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6103:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6103:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6263:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6263:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6447:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6553:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6553:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6737:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6737:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6896:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.6896:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7043:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7043:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7043:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7183:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7183:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7183:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7328:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7328:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7328:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7328:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7508:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7508:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7508:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7648:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7993:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.7993:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.8723:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.8773:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.9044:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:10:39.9044:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 19:31:33.7358:[tcp @ 000001b2ad510dc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 19:31:35.7493:[tcp @ 000001b2ad510180] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 19:31:37.6113:[hevc @ 000001b2ac4a4ec0] VPS 0 does not exist
+2024-06-11 19:31:37.6381:[hevc @ 000001b2ac4a4ec0] VPS 0 does not exist
+2024-06-11 19:31:38.4222:[hevc @ 000001b2ac4a5ac0] VPS 0 does not exist
+2024-06-11 19:31:38.4222:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 19:52:15.6499:[tcp @ 000001b2a2ffdfc0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 19:52:17.6526:[tcp @ 000001b2a2ffea40] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 19:52:19.6527:[tcp @ 000001b2a2ffe500] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 19:52:21.5554:[hevc @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 19:52:21.5797:[hevc @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 19:52:22.3576:[hevc @ 000001b2ac49fac0] VPS 0 does not exist
+2024-06-11 19:52:22.3576:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 20:11:31.1739:[tcp @ 000001b2ac9ff2c0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 20:11:33.1858:[tcp @ 000001b2ac9ff100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 20:11:35.1889:[tcp @ 000001b2ac9ff700] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 20:11:37.1112:[hevc @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 20:11:37.1386:[hevc @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 20:11:37.9128:[hevc @ 000001b2ac4a56c0] VPS 0 does not exist
+2024-06-11 20:11:37.9128:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 20:32:36.9549:[hevc @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 20:32:36.9919:[hevc @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 20:32:37.7639:[hevc @ 000001b2ac4a4ec0] VPS 0 does not exist
+2024-06-11 20:32:37.7639:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 20:54:25.3878:[NULL @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 20:54:25.3878:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.3878:[hevc @ 000001b2ac4a4ec0] Could not find ref with POC 10
+2024-06-11 20:54:25.4150:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.4401:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.4781:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.5451:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.5650:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.5833:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.6080:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.6430:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.6750:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.7151:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.7400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.7749:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.8081:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.8400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.8751:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.9096:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.9401:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:25.9751:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.0080:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.0401:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.0751:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.1081:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.1450:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.1746:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.2150:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.2401:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.2745:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.3080:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.3401:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.3751:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.4080:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.4530:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.4830:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.5096:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.5401:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.5750:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.6080:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.6580:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.6750:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.7406:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.7476:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.7750:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.8080:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.8400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.8750:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.9397:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.9773:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:26.9843:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.0096:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.0400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.1300:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.1398:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.1398:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.1750:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.2500:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.2500:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.2750:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.3400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.3550:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.3744:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.4628:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.4748:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.4880:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.5650:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.5650:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.5798:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.6550:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.6743:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.6880:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.7400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.7400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.7892:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.8530:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.8650:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.8800:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.9400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.9400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:27.9750:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.0400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.0750:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.0944:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.1400:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.1543:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.1755:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.2673:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.2805:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.2805:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.3392:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.3997:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.4057:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.4057:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.4850:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.5080:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.5199:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.5755:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.5829:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.6091:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.6900:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.7010:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.7010:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.7893:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.8100:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.8100:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.8743:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.8923:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.9200:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.9925:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 20:54:28.9995:[NULL @ 000001b2ac4a76c0] PPS id out of range: 0
+2024-06-11 21:15:12.8752:[hevc @ 000001b2ac4a5ec0] VPS 0 does not exist
+2024-06-11 21:15:12.9047:[hevc @ 000001b2ac4a5ec0] VPS 0 does not exist
+2024-06-11 21:15:13.6653:[hevc @ 000001b2ac4a76c0] VPS 0 does not exist
+2024-06-11 21:15:13.6653:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 21:34:24.6940:[hevc @ 000001b2ac4a5ec0] VPS 0 does not exist
+2024-06-11 21:34:24.7254:[hevc @ 000001b2ac4a5ec0] VPS 0 does not exist
+2024-06-11 21:34:25.5147:[hevc @ 000001b2ac4a7ec0] VPS 0 does not exist
+2024-06-11 21:34:25.5147:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 21:40:29.7953:[tcp @ 000001b2adcbe040] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 21:40:31.7989:[tcp @ 000001b2adcbe100] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 21:40:33.7317:[hevc @ 000001b2ac4a5ec0] VPS 0 does not exist
+2024-06-11 21:40:33.7543:[hevc @ 000001b2ac4a5ec0] VPS 0 does not exist
+2024-06-11 21:40:34.5556:[hevc @ 000001b2ac4a82c0] VPS 0 does not exist
+2024-06-11 21:40:34.5556:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 21:43:22.3499:[tcp @ 000001b2a2ff8400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 21:43:24.3550:[tcp @ 000001b2a2ff8400] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 21:43:26.2868:[hevc @ 000001b2ac4a5ec0] VPS 0 does not exist
+2024-06-11 21:43:26.2969:[hevc @ 000001b2ac4a5ec0] VPS 0 does not exist
+2024-06-11 21:43:27.0870:[hevc @ 000001b2ac4a7ac0] VPS 0 does not exist
+2024-06-11 21:43:27.0870:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 22:08:52.8658:[hevc @ 000001b2ac4a8ac0] VPS 0 does not exist
+2024-06-11 22:08:52.8903:[hevc @ 000001b2ac4a8ac0] VPS 0 does not exist
+2024-06-11 22:08:52.8903:[hevc @ 000001b2ac4a8ac0] PPS id out of range: 0
+2024-06-11 22:08:52.8903:[hevc @ 000001b2ac4a8ac0] PPS id out of range: 0
+2024-06-11 22:08:52.8903:[hevc @ 000001b2ac4a8ac0] Error parsing NAL unit #0.
+2024-06-11 22:08:53.6473:[hevc @ 000001b2ac4a5ec0] VPS 0 does not exist
+2024-06-11 22:08:53.6473:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 22:08:53.6473:[hevc @ 000001b2ac4a5ec0] PPS id out of range: 0
+2024-06-11 22:08:53.6473:[hevc @ 000001b2ac4a5ec0] Error parsing NAL unit #0.
+2024-06-11 22:34:43.4043:[hevc @ 000001b2ac4a62c0] VPS 0 does not exist
+2024-06-11 22:34:43.4291:[hevc @ 000001b2ac4a62c0] VPS 0 does not exist
+2024-06-11 22:34:44.2389:[hevc @ 000001b2ac4a92c0] VPS 0 does not exist
+2024-06-11 22:34:44.2389:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 23:04:04.9689:[tcp @ 000001b2a2ffe340] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 23:04:06.9832:[tcp @ 000001b2a2ffe980] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 23:04:08.8650:[hevc @ 000001b2ac4aa2c0] VPS 0 does not exist
+2024-06-11 23:04:08.8731:[hevc @ 000001b2ac4aa2c0] VPS 0 does not exist
+2024-06-11 23:04:08.9030:[hevc @ 000001b2ac4aa2c0] PPS id out of range: 0
+2024-06-11 23:04:08.9030:[hevc @ 000001b2ac4aa2c0] PPS id out of range: 0
+2024-06-11 23:04:08.9040:[hevc @ 000001b2ac4aa2c0] Error parsing NAL unit #0.
+2024-06-11 23:04:09.6445:[hevc @ 000001b2ac4a8ac0] VPS 0 does not exist
+2024-06-11 23:04:09.6445:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 23:04:09.6445:[hevc @ 000001b2ac4a8ac0] PPS id out of range: 0
+2024-06-11 23:04:09.6445:[hevc @ 000001b2ac4a8ac0] Error parsing NAL unit #0.
+2024-06-11 23:10:04.1128:[tcp @ 000001b2ac491ec0] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 23:10:06.1156:[tcp @ 000001b2ac491e00] Connection to tcp://10.205.164.11:1111?timeout=500000 failed: Error number -138 occurred
+2024-06-11 23:10:07.9796:[hevc @ 000001b2ac4a86c0] VPS 0 does not exist
+2024-06-11 23:10:08.0119:[hevc @ 000001b2ac4a86c0] VPS 0 does not exist
+2024-06-11 23:10:08.7652:[hevc @ 000001b2ac4a8ec0] VPS 0 does not exist
+2024-06-11 23:10:08.7652:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 23:36:10.7830:[hevc @ 000001b2ac4a62c0] VPS 0 does not exist
+2024-06-11 23:36:10.7960:[hevc @ 000001b2ac4a62c0] VPS 0 does not exist
+2024-06-11 23:36:10.8180:[hevc @ 000001b2ac4a62c0] PPS id out of range: 0
+2024-06-11 23:36:10.8180:[hevc @ 000001b2ac4a62c0] PPS id out of range: 0
+2024-06-11 23:36:10.8180:[hevc @ 000001b2ac4a62c0] Error parsing NAL unit #0.
+2024-06-11 23:36:11.5704:[hevc @ 000001b2ac4a96c0] VPS 0 does not exist
+2024-06-11 23:36:11.5704:程式已連線到rtsp://admin:Admin123@10.205.164.11:1111/media/video1
+2024-06-11 23:36:11.5704:[hevc @ 000001b2ac4a96c0] PPS id out of range: 0
+2024-06-11 23:36:11.5704:[hevc @ 000001b2ac4a96c0] Error parsing NAL unit #0.

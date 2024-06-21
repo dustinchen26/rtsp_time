@@ -5,170 +5,133 @@
 -->
 
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>rtsp白屏時間計算</title>
+    <title>rtsp_time_calculator</title>
     <style>
+        body {
+            font-family: Roboto, sans-serif;
+            font-size: 14px;
+            margin: 0;
+            padding: 0;			
+        }
+
         .author-info {
             display: inline;
             margin-right: 10px;
         }
-		
-        body {
-            font-family: Roboto, sans-serif;
-            font-size: 14px;
+
+        .container {
+            width: 100%;
+            max-width: 800px;
+            padding: 20px;
         }
-		
-        table {
-            border-collapse: collapse;
+        textarea {
+            width: 100%;
+            height: 200px;
+        }
+        button {
             margin-top: 10px;
         }
-        table, th, td {
-            border: 1px solid black;
+        table {
+            width: 60%; /* 調整整體表格寬度 */
+            border-collapse: collapse;
+            margin-top: 20px;
         }
         th, td {
-            padding: 5px;
+            border: 1px solid #ddd;
+            padding: 8px;
             text-align: left;
-            white-space: nowrap;
         }
-        /* 应用淡绿色底纹到表格的第一个非表头的行 */
-        table tr:not(:first-child) {
-            background-color: white;
+        th:nth-child(1), td:nth-child(1) {
+            width: 10%; /* 控制第一列寬度為10% */
         }
-        /* 针对表头行的样式 */
-        table th {
+        th:nth-child(2), td:nth-child(2) {
+            width: 30%; /* 控制第二列寬度為40% */
+        }
+        th:nth-child(3), td:nth-child(3) {
+            width: 30%; /* 控制第三列寬度為40% */
+        }
+        th:nth-child(4), td:nth-child(4) {
+            width: 20%; /* 控制第四列寬度為10% */
+        }
+        th {
             background-color: #f2f2f2;
         }
-        #chartContainer {
-            margin-top: 20px;
-            width: 500px;
-            height: 300px;
-        }
-        .container {
-            display: flex;
-            align-items: flex-start;
-            margin-top: 20px;
-        }
-        .table-container {
-            margin-right: 20px;
-        }
     </style>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-    <h2>rtsp白屏時間計算</h2>
-	
-    <p class="author-info">Author: Dustin_Chen</p>
-    <p class="author-info">Email: <a href="mailto:Dustin_Chen@compal.com">Dustin_Chen@compal.com</a></p>
-    <p class="author-info">or <a href="mailto:chuhpsdustin@gmail.com">chuhpsdustin@gmail.com</a></p>
-	<br><br>
-	
-    <form id="logForm">
-        <label for="logInput"><strong>● 輸入WpfRTSPPlayer_XXX.log:</strong></label><br>
-        <textarea id="logInput" rows="10" cols="100"></textarea><br><br>
-        <button type="button" onclick="calculateTimeDifference()">計算</button>
-    </form>
-
     <div class="container">
-        <div class="table-container">
-            <table>
-                <thead>
-                    <tr>
-                        <th>次數</th>
-                        <th>Time_1:rtsp斷線時間  </th>
-                        <th>Time_2:連線到rtsp  </th>
-                        <th>白屏時間(秒)  </th>
-                    </tr>
-                </thead>
-                <tbody id="resultsTable">
-                </tbody>
-            </table>
-        </div>
-        <div id="chartContainer">
-            <canvas id="timeChart"></canvas>
-        </div>
+        <h2>rtsp_time_calculator</h2>
+
+        <p class="author-info">Email: <a href="mailto:Dustin_Chen@compal.com">Dustin_Chen@compal.com</a></p>
+        <p class="author-info">or <a href="mailto:chuhpsdustin@gmail.com">chuhpsdustin@gmail.com</a></p>
+        <br><br>
+		
+        <p>Please paste the WpfRTSPPlayer_New_XXX.log content below:</p>        
+        <textarea id="logInput" placeholder="請在此處貼上日誌內容..."></textarea>
+        <button onclick="parseLogs()">解析日誌</button>
+        <table id="resultTable">
+            <thead>
+                <tr>
+                    <th>次數</th>
+                    <th>Time1 (failed: Error)</th>
+                    <th>Time2 (程式已連線到)</th>
+                    <th>白屏時間 (秒)</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
     </div>
-
     <script>
-        let chartInstance = null;
-
-        function parseTime(log) {
-            const regex = /\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d{4}/;
-            const match = log.match(regex);
-            return match ? match[0] : null;
-        }
-
-        function calculateTimeDifference() {
+        function parseLogs() {
             const logInput = document.getElementById('logInput').value;
-            const logs = logInput.split('\n').filter(line => line.trim() !== '');
-            const resultsTable = document.getElementById('resultsTable');
-            resultsTable.innerHTML = '';
+            const lines = logInput.split('\n');
+            const ipPattern = /10\.205\.164/;
+            const timePattern = /\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/;
 
-            const timeDifferences = [];
-
-            for (let i = 0; i < logs.length - 1; i += 2) {
-                const time1 = parseTime(logs[i]);
-                const time2 = parseTime(logs[i + 1]);
-
-                if (time1 && time2) {
-                    const date1 = new Date(time1);
-                    const date2 = new Date(time2);
-
-                    const timeDifference = date2 - date1;
-                    const differenceInSeconds = timeDifference / 1000;
-                    timeDifferences.push(differenceInSeconds);
-
-                    const row = resultsTable.insertRow();
-                    const cell0 = row.insertCell(0);
-                    const cell1 = row.insertCell(1);
-                    const cell2 = row.insertCell(2);
-                    const cell3 = row.insertCell(3);
-
-                    cell0.textContent = (i / 2) + 1; // 计算第几次
-                    cell1.textContent = time1;
-                    cell2.textContent = time2;
-                    cell3.textContent = differenceInSeconds.toFixed(3);
+            let relevantLines = [];
+            for (let line of lines) {
+                if (ipPattern.test(line)) {
+                    relevantLines.push(line);
                 }
             }
 
-            renderChart(timeDifferences);
-        }
-
-        function renderChart(data) {
-            const ctx = document.getElementById('timeChart').getContext('2d');
-            if (chartInstance) {
-                chartInstance.destroy();
-            }
-            chartInstance = new Chart(ctx, {
-                type: 'line',
-                data: {
-                    labels: data.map((_, index) => `第${index + 1}次`),
-                    datasets: [{
-                        label: '白屏時間（秒）',
-                        data: data,
-                        borderColor: 'rgba(75, 192, 192, 1)',
-                        borderWidth: 1,
-                        fill: false
-                    }]
-                },
-                options: {
-                    scales: {
-                        x: {
-                            title: {
-                                display: true,
-                                text: '次數'
-                            }
-                        },
-                        y: {
-                            title: {
-                                display: true,
-                                text: '白屏時間（秒）'
-                            }
-                        }
+            let results = [];
+            let count = 1; // 初始次數為1
+            let time1 = null;
+            for (let line of relevantLines) {
+                if (time1 === null && line.includes("failed: Error number")) {
+                    let match = line.match(timePattern);
+                    if (match) {
+                        time1 = match[0];
+                    }
+                } else if (time1 !== null && line.includes("程式已連線到")) {
+                    let match = line.match(timePattern);
+                    if (match) {
+                        let time2 = match[0];
+                        let diff = (new Date(time2) - new Date(time1)) / 1000; // difference in seconds
+                        results.push({ count: count, time1: time1, time2: time2, diff: diff });
+                        time1 = null;
+                        count++; // 次數增加
                     }
                 }
+            }
+
+            const resultTableBody = document.querySelector('#resultTable tbody');
+            resultTableBody.innerHTML = '';
+            results.forEach(result => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${result.count}</td>
+                    <td>${result.time1}</td>
+                    <td>${result.time2}</td>
+                    <td>${result.diff}</td>
+                `;
+                resultTableBody.appendChild(row);
             });
         }
     </script>

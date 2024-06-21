@@ -1,0 +1,66 @@
+2024-06-04 13:42:44.0161:程式啟動
+2024-06-04 13:42:45.0985:程式已連線到rtsp://10.205.102.225:8554/C2
+2024-06-04 13:42:45.1142:[hevc @ 00000201aac87a40] Could not find ref with POC 11
+2024-06-04 13:42:45.1142:程式已連線到rtsp://10.205.102.225:8554/C4
+2024-06-04 13:42:45.1454:[hevc @ 00000201aaabca40] Could not find ref with POC 11
+2024-06-04 13:42:45.1610:程式已連線到rtsp://10.205.102.225:8554/C3
+2024-06-04 13:42:45.1767:[hevc @ 00000201a3453540] Could not find ref with POC 11
+2024-06-04 13:42:45.1922:程式已連線到rtsp://10.205.102.225:8554/C1
+2024-06-04 13:42:45.2083:[hevc @ 00000201ad406e80] Could not find ref with POC 12
+2024-06-04 13:49:38.3578:程式關閉
+2024-06-04 13:49:39.7482:程式啟動
+2024-06-04 13:49:40.6592:程式已連線到rtsp://10.205.102.225:8554/C3
+2024-06-04 13:49:40.6792:[hevc @ 000001b0fa810c80] Could not find ref with POC 26
+2024-06-04 13:49:40.6792:程式已連線到rtsp://10.205.102.225:8554/C4
+2024-06-04 13:49:40.6942:程式已連線到rtsp://10.205.102.225:8554/C2
+2024-06-04 13:49:40.6942:[hevc @ 000001b0fab5eb80] Could not find ref with POC 28
+2024-06-04 13:49:40.7042:[hevc @ 000001b0fa6c2bc0] Could not find ref with POC 58
+2024-06-04 13:49:40.7693:程式已連線到rtsp://10.205.102.225:8554/C6
+2024-06-04 13:49:40.7793:[hevc @ 000001b0fa6f2200] Could not find ref with POC 114
+2024-06-04 14:06:13.8175:程式已連線到rtsp://10.205.102.225:8554/C6
+2024-06-04 14:06:15.8184:程式已連線到rtsp://10.205.102.225:8554/C6
+2024-06-04 14:06:17.8343:程式已連線到rtsp://10.205.102.225:8554/C6
+2024-06-04 14:06:19.8427:程式已連線到rtsp://10.205.102.225:8554/C6
+2024-06-04 14:06:21.1650:[rtsp @ 000001b0f31ec440] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:23.1852:[rtsp @ 000001b0f31ebc00] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:25.1704:[rtsp @ 000001b0f31ec700] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:27.1792:[rtsp @ 000001b0f31ec180] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:29.1977:[rtsp @ 000001b0f31ec440] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:31.2075:[rtsp @ 000001b0f31ebc00] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:33.2100:[rtsp @ 000001b0f31ec180] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:35.2191:[rtsp @ 000001b0f31ebec0] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:37.2335:[rtsp @ 000001b0f31ecc80] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:39.2399:[rtsp @ 000001b0f31ec440] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:41.2259:[rtsp @ 000001b0f31ebec0] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:43.2316:[rtsp @ 000001b0f31ec700] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:45.2577:[rtsp @ 000001b0f31ecc80] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:47.2718:[rtsp @ 000001b0f31ec180] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:49.2815:[rtsp @ 000001b0f31ecf40] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:51.2936:[rtsp @ 000001b0f31ebc00] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:53.3009:[rtsp @ 000001b0f31ebc00] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:55.3051:[rtsp @ 000001b0f31ebc00] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:57.3147:[rtsp @ 000001b0f31ecc80] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:06:59.3288:[rtsp @ 000001b0f31ebc00] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:01.3393:[rtsp @ 000001b0f31ebc00] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:03.3347:[rtsp @ 000001b0f31ecc80] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:05.3572:[rtsp @ 000001b0f31ec9c0] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:07.3631:[rtsp @ 000001b0f31ecf40] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:09.3618:[rtsp @ 000001b0f31ed200] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:11.3725:[rtsp @ 000001b0f31ec9c0] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:13.3930:[rtsp @ 000001b0f31ebc00] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:15.4064:[rtsp @ 000001b0f31ec440] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:17.4024:[rtsp @ 000001b0f31ec440] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:19.4323:[rtsp @ 000001b0f31ebec0] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:21.4355:[rtsp @ 000001b0f31ebec0] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:23.4263:[rtsp @ 000001b0f31ec440] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:25.4281:[rtsp @ 000001b0f31ec440] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:27.4316:[rtsp @ 000001b0f31ebc00] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:29.4330:[rtsp @ 000001b0f31ecf40] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:31.4406:[rtsp @ 000001b0f31ec180] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:33.4574:[rtsp @ 000001b0f31ec440] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:35.4576:[rtsp @ 000001b0f31ec700] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:37.4777:[rtsp @ 000001b0f31ec180] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:39.4761:[rtsp @ 000001b0f31ebc00] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:41.4968:[rtsp @ 000001b0f31ec440] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:43.4990:[rtsp @ 000001b0f31ec700] method DESCRIBE failed: 404 Not Found
+2024-06-04 14:07:44.2774:程式關閉
