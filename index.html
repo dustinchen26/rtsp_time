@@ -36,7 +36,7 @@
             margin-top: 10px;
         }
         table {
-            width: 60%; /* 調整整體表格寬度 */
+            width: 80%; /* 調整整體表格寬度 */
             border-collapse: collapse;
             margin-top: 20px;
         }
@@ -46,10 +46,10 @@
             text-align: left;
         }
         th:nth-child(1), td:nth-child(1) {
-            width: 10%; /* 控制第一列寬度為10% */
+            width: 8%; /* 控制第一列寬度為10% */
         }
         th:nth-child(2), td:nth-child(2) {
-            width: 30%; /* 控制第二列寬度為40% */
+            width: 42%; /* 控制第二列寬度為40% */
         }
         th:nth-child(3), td:nth-child(3) {
             width: 30%; /* 控制第三列寬度為40% */
@@ -77,7 +77,7 @@
             <thead>
                 <tr>
                     <th>次數</th>
-                    <th>Time1 (failed: Error)</th>
+                    <th>Time1 (:Error number -138 occurred)</th>
                     <th>Time2 (程式已連線到)</th>
                     <th>白屏時間 (秒)</th>
                 </tr>
@@ -90,21 +90,14 @@
         function parseLogs() {
             const logInput = document.getElementById('logInput').value;
             const lines = logInput.split('\n');
-            const ipPattern = /10\.205\.164/;
-            const timePattern = /\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/;
-
-            let relevantLines = [];
-            for (let line of lines) {
-                if (ipPattern.test(line)) {
-                    relevantLines.push(line);
-                }
-            }
+            const timePattern = /\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d{4}/;
 
             let results = [];
             let count = 1; // 初始次數為1
             let time1 = null;
-            for (let line of relevantLines) {
-                if (time1 === null && line.includes("failed: Error number")) {
+
+            for (let line of lines) {
+                if (time1 === null && line.includes(":Error number -138 occurred")) {
                     let match = line.match(timePattern);
                     if (match) {
                         time1 = match[0];
@@ -129,7 +122,7 @@
                     <td>${result.count}</td>
                     <td>${result.time1}</td>
                     <td>${result.time2}</td>
-                    <td>${result.diff}</td>
+                    <td>${result.diff.toFixed(4)}</td>
                 `;
                 resultTableBody.appendChild(row);
             });
