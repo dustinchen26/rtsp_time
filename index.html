@@ -97,7 +97,7 @@
             let time1 = null;
 
             for (let line of lines) {
-                if (time1 === null && line.includes(":Error number -138 occurred")) {
+                if (time1 === null && (line.includes(":Error number -138 occurred") || line.includes("failed: Error number -138 occurred"))) {
                     let match = line.match(timePattern);
                     if (match) {
                         time1 = match[0];
